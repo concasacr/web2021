@@ -1,0 +1,118 @@
+.content-wrap {
+	padding: 20px 0 !important;
+}
+
+.section {
+	padding: 40px 0 !important;
+}
+
+.portfolio-overlay a:hover {
+	color: #fff !important;
+	background-color: transparent !important;
+}
+
+
+.portfolio-overlay span {
+	font-size: 80%;
+}
+
+span.input-group-addon {
+	display: block;
+	width: 100%;
+}
+
+.p-3 small {
+	font-size: 75%;
+}
+
+.modalbottons {
+	text-align: center;
+	padding-bottom: 35px;
+}
+
+.calendly-overlay {
+	z-index: 99999 !important;
+}
+
+.modal-dialog {
+	margin: 10.75rem auto !important;
+}
+
+#homepageint {
+	background: url(../n-images/pattern.png) rgba(0, 0, 0, 0.4);
+	position: absolute;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	margin-bottom: 0px;
+	top: 0;
+}
+.heading-block h1 small {
+    display: block;
+    height: 35px;
+    font-size: 25px;
+}
+
+.boton360 {
+    display: block;
+    margin: 16px 0px;
+    width: fit-content;
+    height: 55px !important;
+}
+.boton360 .icons-360 {
+    width: 50px !important;
+    height: 50px !important;
+}
+.boton360:hover .icons-360 {
+    background: url('./n-icons/360hover.svg');
+}
+a.botonmoreinfo:hover {
+    color: #4194df !important;
+    border-bottom: 1px solid;
+}
+.infusion-field {
+    width: 50%;
+    float: left;
+    padding: 7px;
+}
+.infusion-field button {
+    display: block;
+    position: relative;
+    left: 50px;
+    top: 15px;
+}
+textarea {
+    min-height: 60px !important;
+}
+a.botonmoreinfo {
+    height: 41px !important;
+    display: inline-block;
+    float: left;
+    line-height: 41px;
+    margin-right: 10px;
+}
+.col-padding-concasa h3 {
+    text-transform: initial !important;
+}
+
+.portfolio-overlay a {
+    left: none !important;
+    width: 100% !important;
+    line-height: 25px !important;
+    border-radius: 0 !important;
+    background-color: transparent !important;
+    color: #fff !important;
+    margin: 22% auto 0 auto;
+}
+.portfolio-overlay a.right-icon {
+    left: unset !important;
+    right: unset !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+section#section-gallery {
+    position: relative;
+    overflow: hidden;
+    background-color: #FFF;
+}

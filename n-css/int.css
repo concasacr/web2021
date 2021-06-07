@@ -1,0 +1,122 @@
+header {
+	background-position: 0px !important;
+}
+#page-title.page-title-parallax {
+	background-position: 0px !important;
+}
+.text-left-int {
+	text-align: left !important;
+}	
+.show-grid [class^=col-] {
+    border: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: #2e2a35;
+    color: #fff;
+}
+.col-padding-concasa {
+    padding: 3em;
+    margin: 27% 0px;
+}
+.row {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.show-grid h3 {
+	color: #fff;
+}
+
+#section-models #pills-tab {
+    width: 435px;
+    margin: 30px auto 0;
+}
+#section-models #pills-tab .nav-link {
+    border: 2px solid #444;
+    background-color: transparent;
+    color: #333;
+    padding: 0 25px;
+    font-size: 16px;
+    height: 46px;
+    line-height: 42px;
+}
+
+#section-models #pills-tab .nav-link.active {
+    border: 2px solid #5D9EFC;
+    background-color: #5D9EFC;
+    color: #fff;
+    padding: 0 40px;
+    font-size: 16px;
+    height: 46px;
+    line-height: 42px;
+}
+.title-cal {
+	text-transform: initial !important;
+    font-weight: 300 !important;
+    font-size: 22px !important;
+}
+.title-tin-h {
+    display: block;
+    font-size: small;
+    margin-top: 10px;
+    font-weight: lighter;
+    text-transform: initial;
+}
+.pricedolar {
+    color: #003476;
+    font-size: 1.4em;
+}
+.priceusd {
+	font-size: medium;
+    margin-top: 10px;
+    font-weight: lighter;
+    text-transform: initial;
+    color: #003476;
+}
+.pricecouta {
+    margin-top: 8px;
+    display: inline-block;
+    color: #5D9EFC;
+}
+.priceusdcouta {
+	font-size: medium;
+    margin-top: 10px;
+    font-weight: lighter;
+    text-transform: initial;
+    color: #5D9EFC;
+}
+.caltop {
+	width: 50%;
+    float: left;
+    background: #fff;
+    border-top: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
+    margin-bottom: 0px;
+    height: 35px;
+}
+.calmiddle {
+	width: 50%;
+    float: left;
+    background: #fff;
+    border-left: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
+    margin-bottom: 0px;
+}
+.calbottom {
+	width: 50%;
+    float: left;
+    background: #fff;
+    border-bottom: 1px solid #ced4da;
+    border-left: 1px solid #ced4da;
+    border-right: 1px solid #ced4da;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.imac-ajust img {
+    width: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+    float: left;
+}
