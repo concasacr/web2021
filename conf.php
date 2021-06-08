@@ -1,13 +1,4 @@
 <?php
-
-$mysqli = new mysqli("concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com", "admin", "SQLwertyuiop123", "concasac_multisite");
-$result = $mysqli->query("SELECT version() as _version;");
-$row = $result->fetch_assoc();
-printf("Connected to MySQL on %s running version %s",
-$mysqli->host_info, $row['_version']);
-
-die();
-
 // Open Connection
 $con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 //$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
