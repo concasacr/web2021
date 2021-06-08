@@ -198,8 +198,8 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 	<style>body { overflow-x: hidden !important; width: 101%; }.portfolio-overlay a:hover{color: #fff !important; background-color: transparent !important;}.portfolio-overlay a{left: 30% !important; width: 250px !important; line-height: 25px !important; border-radius: 0 !important; background-color: transparent !important;color: #fff !important;}.portfolio-overlay span{font-size: 80%;}</style> 
 	
 <?php 
-	include './header-top.php'; 
-	include './nav-top.php'; 
+	include 'header-top.php'; 
+	include 'nav-top.php'; 
 ?>
 
 <!-- Start Homepage -->
@@ -365,7 +365,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 </div>    
 <!-- End Press -->
 
-<?php include './footer-top.php'; ?>
+<?php include 'footer-top.php'; ?>
 
 <script src="n-js/home.js"></script>
 <script src="n-js/jquery.fancybox.pack.js"></script>
