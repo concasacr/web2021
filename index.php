@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+error_reporting(1);
 //@session_name('Ses_id');
 //@session_set_cookie_params(0, '/', '.concasa.com');
 //@session_start();
