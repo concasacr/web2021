@@ -4,7 +4,7 @@ $con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com'
 //$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
 
 if (!$con) {
-    echo "Error: " . mysqli_connect_error();
+    echo "Error - Andres Segreda: " . mysqli_connect_error();
 	exit();
 }
 
