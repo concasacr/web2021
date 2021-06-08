@@ -367,9 +367,9 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 
 <?php include 'footer-top.php'; ?>
 
-<script src="//cdn.concasa.com/concasa.com/n-js/home.js"></script>
-<script src="//cdn.concasa.com/concasa.com/n-js/jquery.fancybox.pack.js"></script>
-<script src="//cdn.concasa.com/concasa.com/n-js/jquery.fancybox-media.js"></script>
+<script src="//cdn.concasa.com/concasa.com/js/n-js/home.js"></script>
+<script src="//cdn.concasa.com/concasa.com/js/n-js/jquery.fancybox.pack.js"></script>
+<script src="//cdn.concasa.com/concasa.com/js/n-js/jquery.fancybox-media.js"></script>
 <script>
 	
 		var owl = $("#oc-clients");
