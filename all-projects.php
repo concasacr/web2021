@@ -13,7 +13,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominios/condominio-626">
-                  <img src="./n-images/proyectos/general/proyectos-626.jpg" alt="Concasa - San rafael, alajuela">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-626.jpg" alt="Concasa - San rafael, alajuela">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominios/condominio-626" class="left-icon">Condominio 6-26<br><span> 3 Habitaciones</span></a>
@@ -29,7 +29,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominios/condominio-terrazas-del-norte">
-                  <img src="./n-images/proyectos/general/proyectos-tn.jpg" alt="Concasa - San rafael, alajuela">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-tn.jpg" alt="Concasa - San rafael, alajuela">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominios/condominio-terrazas-del-norte" class="left-icon">Terrazas del Norte<br><span>3 Habitaciones</span></a>
@@ -45,7 +45,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominios/condominio-costa-linda">
-                  <img src="./n-images/proyectos/general/proyectos-cl.jpg" alt="Concasa - Jaco">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-cl.jpg" alt="Concasa - Jaco">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominios/condominio-costa-linda" class="left-icon">Costa Linda<br><span>2 Habitaciones</span></a>
@@ -61,7 +61,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominios/condominio-monte-alto">
-                  <img src="./n-images/proyectos/general/proyectos-ma.jpg" alt="Concasa - Curridabat">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-ma.jpg" alt="Concasa - Curridabat">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominios/condominio-monte-alto" class="left-icon">Monte Alto<br><span>2 y 3 Habitaciones</span></a>
@@ -77,7 +77,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominios/condominio-caminos-del-bosque">
-                  <img src="./n-images/proyectos/general/proyectos-cb.jpg" alt="Concasa - San rafael, alajuela">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-cb.jpg" alt="Concasa - San rafael, alajuela">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominio-caminos-del-bosque" class="left-icon">Caminos del Bosque<br><span>2 Habitaciones</span></a>
@@ -89,14 +89,12 @@
                </div>
             </div>
          </div>
-         
-         
-         
+   
          <div class="oc-item">
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominios/condominio-caoba">
-                  <img src="./n-images/proyectos/general/proyectos-ccb.jpg" alt="Condomino - Caobaa">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-ccb.jpg" alt="Condomino - Caobaa">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominios/condominio-caoba" class="left-icon">Caminos Caoba<br><span>3 Habitaciones</span></a>
@@ -108,10 +106,7 @@
                </div>
             </div>
          </div>
-         
-         
-         
-         
+ 
       </div>
    </div>
 </div>
