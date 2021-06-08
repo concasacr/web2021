@@ -5,7 +5,7 @@
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Expires" content="0">
 	
-	<?php include $_SERVER['DOCUMENT_ROOT'].'/pixel-facebook.php'; ?>
+	<?php include 'pixel-facebook.php'; ?>
 	
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -30,14 +30,14 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- CSS Styles -->
-    <link rel="stylesheet" href="n-css/style-canvas.css">
-    <link rel="stylesheet" href="n-css/all.css">
-    <link rel="stylesheet" href="n-css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="n-css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/n-css/style-canvas.css">
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/n-css/all.css">
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/n-css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/n-css/responsive.css" type="text/css" />
     <link href="//assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 
     <!-- Icons -->
-    <link rel="stylesheet" href="n-css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/n-css/font-icons.css" type="text/css" />
     <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">-->
 	
 
