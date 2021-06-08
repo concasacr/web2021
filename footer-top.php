@@ -85,7 +85,7 @@
 	
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<!-- Footer Scripts ============================================= -->
-	<script src="https://cdn.concasa.com/concasa.com/n-js/functions.js"></script>
-	<script src="https://cdn.concasa.com/concasa.com/n-js/plugins.js"></script>
-	<script src="https://cdn.concasa.com/concasa.com/n-js/site.js"></script>
+	<script src="https://cdn.concasa.com/concasa.com/js/n-js/functions.js"></script>
+	<script src="https://cdn.concasa.com/concasa.com/js/n-js/plugins.js"></script>
+	<script src="https://cdn.concasa.com/concasa.com/js/n-js/site.js"></script>
 </body>
