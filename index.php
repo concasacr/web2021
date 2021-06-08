@@ -178,9 +178,9 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 </html>
       
 <?php 
-		  
+	echo 'no';	  
 	}else{
-		
+	echo 'si';	
 ?>
 <!DOCTYPE HTML>
 <head>
