@@ -16,7 +16,7 @@ $_SESSION["NombrePais"]=$geoPlugin_array['geoplugin_countryName'];
 if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.location = "//panama.concasa.com"; </script><? } ?>
 
 <?php 
-	include 'conf.php'; 
+	include '//conf.php'; 
 		
 	include 'Mobile_Detect.php';
 	
