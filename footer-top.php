@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6" data-animate="fadeIn">
                     <div class="footer_panel  bottom20">
-                        <a href="#" class="footer_logo"><img src="./n-images/logo.svg" alt="Logo Concasa"></a>
+                        <a href="#" class="footer_logo"><img src="//cdn.concasa.com/concasa.com/images/n-images/logo.svg" alt="Logo Concasa"></a>
                         <p class="whitecolor bottom25" style="padding-left: 28px;">Mejor hogar de manera simple.</p>
                         <div class="d-table w-100 address-item whitecolor bottom25">
                             <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
@@ -26,7 +26,7 @@
                         <ul class="latest_news whitecolor">
 	                        <?php
 								$cont = 0;
-						        $url="https://blog.concasa.com/wp-json/wp/v2/posts";
+						        $url="https://concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
 						        $ch = curl_init();
 						        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 						        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -85,7 +85,7 @@
 	
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<!-- Footer Scripts ============================================= -->
-	<script src="n-js/functions.js"></script>
-	<script src="n-js/plugins.js"></script>
-	<script src="n-js/site.js"></script>
+	<script src="https://cdn.concasa.com/concasa.com/n-js/functions.js"></script>
+	<script src="https://cdn.concasa.com/concasa.com/n-js/plugins.js"></script>
+	<script src="https://cdn.concasa.com/concasa.com/n-js/site.js"></script>
 </body>
