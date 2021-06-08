@@ -1,6 +1,6 @@
 <?php
 // Open Connection
-$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
+$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 
 if (!$con) {
     echo "Error: " . mysqli_connect_error();
@@ -10,7 +10,7 @@ if (!$con) {
 
 
 // array de images
-$imgBasePath = '/images/';
+$imgBasePath = 'https://cdn.concasa.com/concasa.com/images/images/';
   $datasponser = array(
 	    array(
 	        'path'      => $imgBasePath . 'main-1.jpg',
@@ -49,7 +49,7 @@ $url_text     = $datasponser[$r]['link_text'];
 
 
 function getPrecioProperty($data_project, $data_model){
-	$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
+	$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
 	$resultado = $con->query($consulta);
 	$fila = $resultado->fetch_assoc();
@@ -58,7 +58,7 @@ function getPrecioProperty($data_project, $data_model){
 }
 
 function getCuotaProperty ( $data_project , $data_model ){
-	$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
+	$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
 	$resultado = $con->query($consulta);
 	$fila = $resultado->fetch_assoc();
@@ -67,7 +67,7 @@ function getCuotaProperty ( $data_project , $data_model ){
 }
 
 function getPrimaProperty ( $data_project , $data_model ){
-	$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
+	$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
 	$resultado = $con->query($consulta);
 	$fila = $resultado->fetch_assoc();
