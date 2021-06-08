@@ -1,7 +1,7 @@
 <?php
 // Open Connection
-//$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
-$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
+$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
+//$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
 
 if (!$con) {
     echo "Error: " . mysqli_connect_error();
