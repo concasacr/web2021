@@ -178,20 +178,20 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 </html>
       
 <?php 
-	echo 'no';	  
+		  
 	}else{
-	echo 'si';	
+		
 ?>
 <!DOCTYPE HTML>
 <head>
     <meta charset="UTF-8">
-    <title>Inmobiliaria Concasa: Codominios, casas y apartamentos en Costa Rica﻿</title>
+    <title>Inmobiliaria Concasa: Codominios, casas y apartamentos en Costa Rica</title>
     
     <meta http-equiv="Cache-Control" content="no-cache" />
 	<meta http-equiv="Pragma" content="no-cache" />
 	<meta http-equiv="Expires" content="0" />
 	
-  	<meta name="author" content="Inmobiliaria Concasa: Codominios, casas y apartamentos en Costa Rica﻿" />
+  	<meta name="author" content="Inmobiliaria Concasa: Codominios, casas y apartamentos en Costa Rica" />
 	<meta name="description" content="Construimos comunidades inteligentes.Como inmobiliaria y constructora, innovamos para que adquirir hogar sea una experiencia simple y satisfactoria"/>
 	<meta property="og:description" content="Construimos comunidades inteligentes.Como inmobiliaria y constructora, innovamos para que adquirir hogar sea una experiencia simple y satisfactoria" />
 	<meta name="keywords"  content="inmobiliarias en costa rica﻿,Casas, Apartamentos, Condominios, Terrazas del Norte, Condominio 6-26, Condominio 9-10, Costa Linda, Caminos del Bosque, Monte Alto, Alajuela, Venta de casas, Proyectos" />
@@ -221,7 +221,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 <div id="about-us" class="page">
    <div class="row container">
       <div class="col-4">
-         <h1 title="Su inmobiliaria en Costa Rica﻿" name="Su inmobiliaria en Costa Rica﻿" data-animate="slideInLeft">Somos CONCASA</h1>
+         <h1 title="Su inmobiliaria en Costa Rica" name="Su inmobiliaria en Costa Rica" data-animate="slideInLeft">Somos CONCASA</h1>
          <div class="line-b" style="opacity: 1;"></div>
       </div>
       <div class="col-8">
@@ -367,9 +367,9 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
 
 <?php include 'footer-top.php'; ?>
 
-<script src="n-js/home.js"></script>
-<script src="n-js/jquery.fancybox.pack.js"></script>
-<script src="n-js/jquery.fancybox-media.js"></script>
+<script src="//cdn.concasa.com/concasa.com/n-js/home.js"></script>
+<script src="//cdn.concasa.com/concasa.com/n-js/jquery.fancybox.pack.js"></script>
+<script src="//cdn.concasa.com/concasa.com/n-js/jquery.fancybox-media.js"></script>
 <script>
 	
 		var owl = $("#oc-clients");
