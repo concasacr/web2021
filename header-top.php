@@ -37,7 +37,7 @@
     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 
     <!-- Icons -->
-    <link rel="stylesheet" href="https://cdn.concasa.com/concasa.com/n-css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.concasa.com/concasa.com/css/n-css/font-icons.css" type="text/css" />
     <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">-->
 	
 
