@@ -26,7 +26,7 @@
                         <ul class="latest_news whitecolor">
 	                        <?php
 								$cont = 0;
-						        $url="https://concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
+						        $url="//concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
 						        $ch = curl_init();
 						        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 						        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -83,9 +83,9 @@
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<!-- Footer Scripts ============================================= -->
-	<script src="https://cdn.concasa.com/concasa.com/js/n-js/functions.js"></script>
-	<script src="https://cdn.concasa.com/concasa.com/js/n-js/plugins.js"></script>
-	<script src="https://cdn.concasa.com/concasa.com/js/n-js/site.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/functions.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/plugins.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/site.js"></script>
 </body>
