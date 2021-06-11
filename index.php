@@ -119,10 +119,10 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
                   <h3 class="nobottommargin">Publicaciones</h3>
                </div>
                <ul class="clients-grid grid-4 topmargin-sm clearfix">
-                  <li><a href="https://www.construccion.co.cr/Post/Detalle/33532/concasa-invierte-40-millones-en-su-nuevo-proyecto-monte-alto" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/5-C.png" alt="Cámara Costarricense de la Construcción"></a></li>
-                  <li><a href="https://www.larepublica.net/noticia/busca-casa-concasa-lanza-plataforma-virtual" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/3-C.png" alt="larepublica.net"></a></li>
-                  <li><a href="https://www.elfinancierocr.com/tecnologia/firmas-de-joyeria-juguetes-bienes-raices-y-agro/ELRRU5B66VDSVGEQSBVCDNBDAA/story/" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/1-C.png" alt="El Financiero, Grupo Nación"></a></li>
-                  <li><a href="https://www.vidayexito.net/negocios/concasa-invertira-us40-millones-en-nuevo-proyecto-en-costa-rica/" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/2-C.png" alt="Revista Vida y Éxito"></a></li>
+                  <li><a href="//www.construccion.co.cr/Post/Detalle/33532/concasa-invierte-40-millones-en-su-nuevo-proyecto-monte-alto" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/5-C.png" alt="Cámara Costarricense de la Construcción"></a></li>
+                  <li><a href="//www.larepublica.net/noticia/busca-casa-concasa-lanza-plataforma-virtual" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/3-C.png" alt="larepublica.net"></a></li>
+                  <li><a href="//www.elfinancierocr.com/tecnologia/firmas-de-joyeria-juguetes-bienes-raices-y-agro/ELRRU5B66VDSVGEQSBVCDNBDAA/story/" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/1-C.png" alt="El Financiero, Grupo Nación"></a></li>
+                  <li><a href="//www.vidayexito.net/negocios/concasa-invertira-us40-millones-en-nuevo-proyecto-en-costa-rica/" target="_blank"><img src="//cdn.concasa.com/concasa.com/images/n-images/press/2-C.png" alt="Revista Vida y Éxito"></a></li>
                </ul>
             </div>
          </div>
@@ -142,7 +142,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
                   <div id="post-list-footer">
                      <?php
                         $cont = 0;
-                              $url="https://concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
+                              $url="//concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
                               $ch = curl_init();
                               curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
                               curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -289,7 +289,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
       <hr>
       <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="0" data-loop="true" data-nav="false" data-autoplay="true" data-pagi="false" data-items-xs="1" data-items-sm="1" data-items-md="2" data-items-lg="4" data-items-xl="4">
          <div class="oc-item">
-            <a href="https://www.elfinancierocr.com/negocios/concasa-invertira-mas-de-73-millones-en-el/7BM6GNSARVD2PGLGTCQB3QJJTE/story/" target="_blank">
+            <a href="//www.elfinancierocr.com/negocios/concasa-invertira-mas-de-73-millones-en-el/7BM6GNSARVD2PGLGTCQB3QJJTE/story/" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/1.png" alt="Concasa invertirá más de $73 millones en el desarrollo de cuatro proyectos habitacionales - El Financiero" title="Concasa invertirá más de $73 millones en el desarrollo de cuatro proyectos habitacionales - El Financiero">
             </a>
             <div class="caption hidediv">
@@ -298,7 +298,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://revistaconstruir.com/concasa-invertira-us40-millones-proyecto-residencial-curridabat-costa-rica/" target="_blank">
+            <a href="//revistaconstruir.com/concasa-invertira-us40-millones-proyecto-residencial-curridabat-costa-rica/" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/7.png" alt="Monte Alto: el nuevo complejo residencial en medio de la naturaleza" title="Monte Alto: el nuevo complejo residencial en medio de la naturaleza">
             </a>
             <div class="caption hidediv">
@@ -307,7 +307,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://www.construccion.co.cr/Post/Detalle/33532/concasa-invierte-40-millones-en-su-nuevo-proyecto-monte-alto" target="_blank">
+            <a href="//www.construccion.co.cr/Post/Detalle/33532/concasa-invierte-40-millones-en-su-nuevo-proyecto-monte-alto" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/5.png" alt="Monte Alto está dirigido a personas con un estilo de vida sofisticado, activo y saludable, interesadas en mantener un equilibrio entre su vida personal, social y profesional…" title="Monte Alto está dirigido a personas con un estilo de vida sofisticado, activo y saludable, interesadas en mantener un equilibrio entre su vida personal, social y profesional…">
             </a>
             <div class="caption hidediv">
@@ -316,7 +316,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://nemvo.com/articulos/arquitectura/concasa-invertira-40-millones-en-monte-alto-nuevo-proyecto-residencial-en-curridabat/" target="_blank">
+            <a href="//nemvo.com/articulos/arquitectura/concasa-invertira-40-millones-en-monte-alto-nuevo-proyecto-residencial-en-curridabat/" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/6.png" alt="Monte Alto ofrecerá 378 apartamentos en un amplio terreno rodeado de naturaleza, especies nativas, una quebrada y una espectacular vista del Valle Central" title="Monte Alto ofrecerá 378 apartamentos en un amplio terreno rodeado de naturaleza, especies nativas, una quebrada y una espectacular vista del Valle Central">
             </a>
             <div class="caption hidediv">
@@ -325,7 +325,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://www.vidayexito.net/negocios/concasa-invertira-us40-millones-en-nuevo-proyecto-en-costa-rica/" target="_blank">
+            <a href="//www.vidayexito.net/negocios/concasa-invertira-us40-millones-en-nuevo-proyecto-en-costa-rica/" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/2.png" alt="Su principal atractivo será la posibilidad de disfrutar de la ciudad sin renunciar a los placeres que ofrece un contacto genuino con la naturaleza" title="Su principal atractivo será la posibilidad de disfrutar de la ciudad sin renunciar a los placeres que ofrece un contacto genuino con la naturaleza">
             </a>
             <div class="caption hidediv">
@@ -334,7 +334,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://www.larepublica.net/noticia/busca-casa-concasa-lanza-plataforma-virtual" target="_blank">
+            <a href="//www.larepublica.net/noticia/busca-casa-concasa-lanza-plataforma-virtual" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/3.png" alt="...se pueden atender consultas, así como brindar asesoría inmobiliaria y financiera en tiempo real para los interesados" title="...se pueden atender consultas, así como brindar asesoría inmobiliaria y financiera en tiempo real para los interesados">
             </a>
             <div class="caption hidediv">
@@ -343,7 +343,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://www.elfinancierocr.com/tecnologia/firmas-de-joyeria-juguetes-bienes-raices-y-agro/ELRRU5B66VDSVGEQSBVCDNBDAA/story/" target="_blank">
+            <a href="//www.elfinancierocr.com/tecnologia/firmas-de-joyeria-juguetes-bienes-raices-y-agro/ELRRU5B66VDSVGEQSBVCDNBDAA/story/" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/1.png" alt="Concasa ofrece atención, asesoría y visitas virtuales a sus proyectos" title="Concasa ofrece atención, asesoría y visitas virtuales a sus proyectos">
             </a>
             <div class="caption hidediv">
@@ -352,7 +352,7 @@ if ($_SESSION["CodigoPais"]=='PA' AND $_SESSION["web"]==''){ ?><script> window.l
             </div>
          </div>
          <div class="oc-item">
-            <a href="https://newsinamerica.com/pdcc/gerenciales/2020/clientes-de-concasa-optan-por-visitas-y-consultas-virtuales-ante-emergencia" target="_blank">
+            <a href="//newsinamerica.com/pdcc/gerenciales/2020/clientes-de-concasa-optan-por-visitas-y-consultas-virtuales-ante-emergencia" target="_blank">
             <img src="//cdn.concasa.com/concasa.com/images/n-images/press/4.png" alt="El servicio también permite atender consultas y ofrecer asesoría inmobiliaria y financiera en tiempo real" title="El servicio también permite atender consultas y ofrecer asesoría inmobiliaria y financiera en tiempo real">
             </a>
             <div class="caption hidediv">
