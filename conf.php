@@ -1,17 +1,78 @@
 <?php
-// Open Connection
-$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
-//$con = @mysqli_connect('localhost', 'concasac_concasa', 'Cross!2#4', 'concasac_multisite');
-
-if (!$con) {
-    echo "Error - Andres Segreda: " . mysqli_connect_error();
-	exit();
+class DbConfig 
+{	
+	private $_host = 'concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com';
+	private $_username = 'admin';
+	private $_password = 'SQLwertyuiop123';
+	private $_database = 'concasac_multisite';
+	protected $connection;
+	public function __construct()
+	{
+		if (!isset($this->connection)) {
+			
+			$this->connection = new mysqli($this->_host, $this->_username, $this->_password, $this->_database);
+			
+			if (!$this->connection) {
+				echo 'Cannot connect to database server';
+				exit;
+			}
+			
+			if (!$this->connection->set_charset("utf8")) {
+			    echo("Error cargando el conjunto de caracteres utf8: %s\n");
+			    exit();
+			}
+			
+						
+		}	
+		
+		return $this->connection;
+	}
 }
 
+class Crud extends DbConfig
+{
+	public function __construct()
+	{
+		parent::__construct();
+	}
+	
+	public function getData($query)
+	{		
+		$result = $this->connection->query($query);
+		
+		if ($result == false) {
+			return false;
+		} 
+		
+		$rows = array();
+		
+		while ($row = $result->fetch_assoc()) {
+			$rows[] = $row;
+		}
+		
+		return $rows;
+	}
+	public function execute($query) 
+	{
+		$result = $this->connection->query($query);
+		
+		if ($result == false) {
+			echo 'Error: cannot execute the command';
+			return false;
+		} else {
+			return true;
+		}		
+	}
+	public function escape_string($value)
+	{
+		return $this->connection->real_escape_string($value);
+	}
+}
 
+$crud = new Crud();
 
 // array de images
-$imgBasePath = 'https://cdn.concasa.com/concasa.com/images/images/';
+$imgBasePath = '//cdn.concasa.com/concasa.com/images/images/';
   $datasponser = array(
 	    array(
 	        'path'      => $imgBasePath . 'main-1.jpg',
@@ -47,51 +108,40 @@ $name_sponser = $datasponser[$r]['title'];
 $url_sponser  = $datasponser[$r]['link_url'];
 $url_text     = $datasponser[$r]['link_text'];	
 
-
-
 function getPrecioProperty($data_project, $data_model){
-	$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
-	$resultado = $con->query($consulta);
-	$fila = $resultado->fetch_assoc();
-	return $fila['price'];
-	mysqli_close($con);
+	$resultado = $crud->getData($consulta);
+	foreach ($result as $key => $res) {
+		$fila = $res['price'];
+	}	
+	return $fila;
 }
 
 function getCuotaProperty ( $data_project , $data_model ){
-	$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
-	$resultado = $con->query($consulta);
-	$fila = $resultado->fetch_assoc();
-	return $fila['coute'];
-	mysqli_close($con);
+	$resultado = $crud->getData($consulta);
+	foreach ($result as $key => $res) {
+		$fila = $res['coute'];
+	}	
+	return $fila;
 }
 
 function getPrimaProperty ( $data_project , $data_model ){
-	$con = @mysqli_connect('concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com', 'admin', 'SQLwertyuiop123', 'concasac_multisite');
 	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
-	$resultado = $con->query($consulta);
-	$fila = $resultado->fetch_assoc();
-	return $fila['downpayment'];
-	mysqli_close($con);
+	$resultado = $crud->getData($consulta);
+	foreach ($result as $key => $res) {
+		$fila = $res['downpayment'];
+	}	
+	return $fila;
 }
 
-
-/*foreach ($imagenes as $image)
-{  
-	$img_sponser  = $image['path'];
-	$name_sponser = $image['title'];
-	$url_sponser  = $image['link_url'];
-	$url_text     = $image['link_text'];
-}*/
-
-	function quitar_acentos($cadena){
-	    $originales = 'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûýýþÿ';
-	    $modificadas = 'aaaaaaaceeeeiiiidnoooooouuuuybsaaaaaaaceeeeiiiidnoooooouuuyyby';
-	    $cadena = utf8_decode($cadena);
-	    $cadena = strtr($cadena, utf8_decode($originales), $modificadas);
-	    return utf8_encode($cadena);
-	}
+function quitar_acentos($cadena){
+    $originales = 'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûýýþÿ';
+    $modificadas = 'aaaaaaaceeeeiiiidnoooooouuuuybsaaaaaaaceeeeiiiidnoooooouuuyyby';
+    $cadena = utf8_decode($cadena);
+    $cadena = strtr($cadena, utf8_decode($originales), $modificadas);
+    return utf8_encode($cadena);
+}
 	
 session_start();
 
@@ -100,7 +150,6 @@ if ($_SERVER['REMOTE_ADDR']=='::1') $ipuser= ''; else $ipuser= $_SERVER['REMOTE_
 $geoPlugin_array = unserialize( file_get_contents('http://www.geoplugin.net/php.gp?ip='.$ipuser) );
 
 $_SESSION['country'] = $geoPlugin_array['geoplugin_countryName'];
-
 
 //Obtener el pais
  if($_SESSION['country']=='Costa Rica') {
