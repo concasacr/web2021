@@ -27,19 +27,18 @@
 
 
     <!-- Google Web Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Oswald%7COpen+Sans:400,600' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href='//fonts.googleapis.com/css?family=Oswald%7COpen+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- CSS Styles -->
-    <link rel="stylesheet" href="../n-css/style-canvas.css">
-    <link rel="stylesheet" href="../n-css/all.css">
-    <link rel="stylesheet" href="../n-css/animate.css" type="text/css" />
-    <link rel="stylesheet" href="../n-css/responsive.css" type="text/css" />
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/style-canvas.css">
+    <link rel="stylesheet" href="//concasa-webpages.s3.amazonaws.com/concasa.com/css/n-css/all.css">
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/responsive.css" type="text/css" />
+    <link href="//assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 
     <!-- Icons -->
-    <link rel="stylesheet" href="../n-css/font-icons.css" type="text/css" />
-    <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/font-icons.css" type="text/css" />
 	
 
     <!--[if lt IE 9]>
