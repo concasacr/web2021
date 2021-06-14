@@ -1,76 +1,4 @@
 <?php
-class DbConfig 
-{	
-	private $_host = 'concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com';
-	private $_username = 'admin';
-	private $_password = 'SQLwertyuiop123';
-	private $_database = 'concasac_multisite';
-	protected $connection;
-	public function __construct()
-	{
-		if (!isset($this->connection)) {
-			
-			$this->connection = new mysqli($this->_host, $this->_username, $this->_password, $this->_database);
-			
-			if (!$this->connection) {
-				echo 'Cannot connect to database server';
-				exit;
-			}
-			
-			if (!$this->connection->set_charset("utf8")) {
-			    echo("Error cargando el conjunto de caracteres utf8: %s\n");
-			    exit();
-			}
-			
-						
-		}	
-		
-		return $this->connection;
-	}
-}
-
-class Crud extends DbConfig
-{
-	public function __construct()
-	{
-		parent::__construct();
-	}
-	
-	public function getData($query)
-	{		
-		$result = $this->connection->query($query);
-		
-		if ($result == false) {
-			return false;
-		} 
-		
-		$rows = array();
-		
-		while ($row = $result->fetch_assoc()) {
-			$rows[] = $row;
-		}
-		
-		return $rows;
-	}
-	public function execute($query) 
-	{
-		$result = $this->connection->query($query);
-		
-		if ($result == false) {
-			echo 'Error: cannot execute the command';
-			return false;
-		} else {
-			return true;
-		}		
-	}
-	public function escape_string($value)
-	{
-		return $this->connection->real_escape_string($value);
-	}
-}
-
-$crud = new Crud();
-
 // array de images
 $imgBasePath = '//cdn.concasa.com/concasa.com/images/images/';
   $datasponser = array(
@@ -108,32 +36,35 @@ $name_sponser = $datasponser[$r]['title'];
 $url_sponser  = $datasponser[$r]['link_url'];
 $url_text     = $datasponser[$r]['link_text'];	
 
+
 function getPrecioProperty($data_project, $data_model){
-	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
-	$resultado = $crud->getData($consulta);
-	foreach ($result as $key => $res) {
-		$fila = $res['price'];
-	}	
+	$mysqli = new mysqli("concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com", "admin", "SQLwertyuiop123", "concasac_multisite");
+	$sql = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
+	$result = $mysqli->query($sql);
+	    while( $row = $result->fetch_array() ){
+	      $fila = $row['price'];
+	    }
+	return $fila;
+}
+function getCuotaProperty($data_project, $data_model){
+	$mysqli = new mysqli("concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com", "admin", "SQLwertyuiop123", "concasac_multisite");
+	$sql = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
+	$result = $mysqli->query($sql);
+	    while( $row = $result->fetch_array() ){
+	      $fila = $row['coute'];
+	    }
+	return $fila;
+}
+function getPrimaProperty($data_project, $data_model){
+	$mysqli = new mysqli("concasawebpage.chr8lypzrags.us-east-1.rds.amazonaws.com", "admin", "SQLwertyuiop123", "concasac_multisite");
+	$sql = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
+	$result = $mysqli->query($sql);
+	    while( $row = $result->fetch_array() ){
+	      $fila = $row['downpayment'];
+	    }
 	return $fila;
 }
 
-function getCuotaProperty ( $data_project , $data_model ){
-	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
-	$resultado = $crud->getData($consulta);
-	foreach ($result as $key => $res) {
-		$fila = $res['coute'];
-	}	
-	return $fila;
-}
-
-function getPrimaProperty ( $data_project , $data_model ){
-	$consulta = "SELECT * FROM tbl_price_web WHERE proyect LIKE '".$data_project."' AND model = '".$data_model."'";
-	$resultado = $crud->getData($consulta);
-	foreach ($result as $key => $res) {
-		$fila = $res['downpayment'];
-	}	
-	return $fila;
-}
 
 function quitar_acentos($cadena){
     $originales = 'ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûýýþÿ';
