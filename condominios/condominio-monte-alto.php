@@ -3,33 +3,33 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Condominio Monte Alto - Su residencial en Granadilla, Curridabat - Concasa﻿</title>
-		<meta name="author" content="Condominio Monte Alto - Su residencial en Granadilla, Curridabat - Concasa﻿" />
-		<meta name="description" content="Condominio Monte Alto ubicado en Granadilla, Curridabat. Conozca su futuro hogar en nuestro espectacular residencial﻿"/>
-		<meta property="og:description" content="Condominio Monte Alto ubicado en Granadilla, Curridabat. Conozca su futuro hogar en nuestro espectacular residencial﻿" />
-		<meta name="keywords"  content="condominios en costa rica, residenciales en costa rica, Condominios en Curridabat, Condominios en Granadilla, Condominio Monte Alto﻿" />
-	
+      <meta name="author" content="Condominio Monte Alto - Su residencial en Granadilla, Curridabat - Concasa﻿" />
+      <meta name="description" content="Condominio Monte Alto ubicado en Granadilla, Curridabat. Conozca su futuro hogar en nuestro espectacular residencial﻿"/>
+      <meta property="og:description" content="Condominio Monte Alto ubicado en Granadilla, Curridabat. Conozca su futuro hogar en nuestro espectacular residencial﻿" />
+      <meta name="keywords"  content="condominios en costa rica, residenciales en costa rica, Condominios en Curridabat, Condominios en Granadilla, Condominio Monte Alto﻿" />
+   
 <?php 
-	include 'header_int.php'; 
-	include 'nav-top-int.php'; 
+   include 'header_int.php'; 
+   include 'nav-top-int.php'; 
 ?>
-<link rel="stylesheet" href="../n-css/magnific-popup.css" type="text/css" />
-<link rel="stylesheet" href="../n-css/scalize.css" />
-<link rel="stylesheet" href="../n-css/int.css" />
-<link rel="stylesheet" href="../n-css/dark.css" type="text/css">
-<link rel="stylesheet" href="../n-css/project.css" type="text/css">
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/magnific-popup.css" type="text/css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/scalize.css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/int.css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/dark.css" type="text/css">
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/project.css" type="text/css">
 <style>#section-models #pills-tab { width: 520px !important;}</style> 
-	
-<!-- Star Header image -->	 
-<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('../n-images/proyectos/ma/imgp-ma.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
-	<div id="homepageint"></div>
-	<div class="container clearfix text-left-int" data-animate="bounceInLeft" data-delay="50">
-		<span style="margin-bottom: 5px;">Apartamentos</span> 
-		<h1 title="Condominio Monte Alto - Su Hogar en Curridabat﻿">Monte Alto</h1>
-		<span>Granadilla, Curridabat</span>
-	</div>
-	
+   
+<!-- Star Header image -->  
+<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/imgp-ma.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+   <div id="homepageint"></div>
+   <div class="container clearfix text-left-int" data-animate="bounceInLeft" data-delay="50">
+      <span style="margin-bottom: 5px;">Apartamentos</span> 
+      <h1 title="Condominio Monte Alto - Su Hogar en Curridabat﻿">Monte Alto</h1>
+      <span>Granadilla, Curridabat</span>
+   </div>
+   
 </section>
-<!-- End Header image -->	
+<!-- End Header image -->  
 
 <!-- Page Sub Menu -->
 <div id="page-menu" class="bottom60">
@@ -51,8 +51,8 @@
    </div>
 </div>
 <!-- #page-menu end -->
-				
-<!-- Star information -->					
+            
+<!-- Star information -->              
 <section id="section-information" class="page-section bottom60">
    <div class="container-fullwidth clearfix">
       <div class="row clearfix">
@@ -64,7 +64,7 @@
          </div>
          <div class="col-xl-7">
             <div>
-               <img src="../n-images/proyectos/mapas/Mapas-web-MA.jpg" data-animate="fadeInUp" data-delay="100" alt="Condominio Monte Alto">
+               <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/mapas/Mapas-web-MA.jpg" data-animate="fadeInUp" data-delay="100" alt="Condominio Monte Alto">
             </div>
          </div>
       </div>
@@ -81,14 +81,14 @@
             <span>Amenidades, áreas sociales y áreas verdes</span>
          </div>
          <div class="row show-grid">
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/ma/MA4.jpg')"  data-animate="fadeIn"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/MA4.jpg')"  data-animate="fadeIn"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="100">
                <div class="col-padding-concasa ohidden">
                   <h3>Área de piscina</h3>
                   <p>La piscina cuenta con una dimensión de 5 x 25 metros y dos carriles de nado para practicar natación.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/ma/MA2.jpg')" data-animate="fadeIn" data-delay="200"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/MA2.jpg')" data-animate="fadeIn" data-delay="200"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="300">
                <div class="col-padding-concasa ohidden">
                   <h3>Gimnasio, sauna y jacuzzi</h3>
@@ -102,19 +102,19 @@
                   <p>El balance entre vida profesional, salud y vida social es un aspecto.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/ma/MA3.jpg')" data-animate="fadeIn" data-delay="100"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/MA3.jpg')" data-animate="fadeIn" data-delay="100"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="200">
                <div class="col-padding-concasa ohidden">
                   <h3>Senderos entre áreas verdes</h3>
                   <p>Monte Alto se ubica en un hermoso terreno rodeado de naturaleza que puede disfrutar caminando por los senderos.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/ma/MA1.jpg')" data-animate="fadeIn" data-delay="300"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/MA1.jpg')" data-animate="fadeIn" data-delay="300"></div>
          </div>
       </div>
    </div>
-</section>	
-<!-- End Amenities -->		
+</section>  
+<!-- End Amenities -->     
 
 <!-- Star Models -->
 <section id="section-models" class="page-section">
@@ -144,36 +144,36 @@
                      
                      <div class="scalize" data-lightbox="gallery">
                         
-                        <img data-animate="fadeInLeftBig" class="target" src="../n-images/isometric/MA-A.png" alt="Modelo A - Condominio Monte Alto - Concasa">
+                        <img data-animate="fadeInLeftBig" class="target" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/MA-A.png" alt="Modelo A - Condominio Monte Alto - Concasa">
                         
                         <!-- Start Item Point -->
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="187" data-left="323" data-popover="#content1"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content1" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Ba&ntilde;o</h6></div><div class="body"><img src="../n-images/proyectos/ma/zoom-01.jpg"></div></div>
+                        <div id="content1" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Ba&ntilde;o</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/zoom-01.jpg"></div></div>
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point -->
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="216" data-left="450" data-popover="#content3"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content3" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="../n-images/proyectos/ma/zoom-02.jpg"></div></div>
+                        <div id="content3" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/zoom-02.jpg"></div></div>
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point -->
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="360" data-left="325" data-popover="#content2"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content2" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Sala</h6></div><div class="body"><img src="../n-images/proyectos/ma/zoom-03.jpg"></div></div>
+                        <div id="content2" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Sala</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/zoom-03.jpg"></div></div>
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point -->
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="228" data-left="255" data-popover="#content4"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content4" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Cocina</h6></div><div class="body"><img src="../n-images/proyectos/ma/zoom-04.jpg"></div></div>
+                        <div id="content4" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Cocina</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/zoom-04.jpg"></div></div>
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point -->
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="142" data-left="374" data-popover="#content6"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content6" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Principal</h6></div><div class="body"><img src="../n-images/proyectos/ma/zoom-05.jpg"></div></div>
+                        <div id="content6" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Principal</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/zoom-05.jpg"></div></div>
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point -->
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="263" data-left="392" data-popover="#content5"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content5" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="../n-images/proyectos/ma/zoom-06.jpg"></div></div>
+                        <div id="content5" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/zoom-06.jpg"></div></div>
                         <!-- End Item Point -->
                         
                      </div>
@@ -246,7 +246,7 @@
                       <a href="#myModal3" class="botonmoreinfo" data-lightbox="inline"><span class="icon-line2-envelope-open"></span> Solicitar información</a>
                   </div>
                   <div class="col_three_fifth topmargin-sm " style="margin-right: 0 !important;margin-bottom: 0px !important;">
-                     <img data-animate="fadeInRightBig" src="../n-images/isometric/MA-B.png" alt="Modelo B - Condominio Monte Alto - Concasa">
+                     <img data-animate="fadeInRightBig" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/MA-B.png" alt="Modelo B - Condominio Monte Alto - Concasa">
                   </div>
                   <div class="clear"></div>
                   <div id="features-plan">
@@ -289,8 +289,8 @@
                   </div>
                </div>
               <div class="tab-pane fade" id="pills-c" role="tabpanel" aria-labelledby="pills-c-tab">
-	              <div class="col_three_fifth topmargin-sm" style="margin-bottom: 0px !important;">
-                        <img data-animate="fadeInLeftBig" class="target" src="../n-images/isometric/MA-C.png" alt="Modelo C - Condominio Monte Alto - Concasa">
+                 <div class="col_three_fifth topmargin-sm" style="margin-bottom: 0px !important;">
+                        <img data-animate="fadeInLeftBig" class="target" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/MA-C.png" alt="Modelo C - Condominio Monte Alto - Concasa">
                   </div>
                   <div class="col_two_fifth topmargin-sm col_last" data-animate="fadeInRightBig">
                      <div class="heading-block topmargin">
@@ -356,35 +356,35 @@
 
 <!-- Star Gallery -->
 <section id="section-gallery" class="page-section">
-	<div class="content-wrap">
-		<div class="heading-block center">
-			<h2 title="Amenidades del condominio, Modelos disponibles, ubicación del condominio﻿">Galería <span>Monte Alto</span></h2>
-			<span>Espacios internos y áreas externas del proyecto</span>
-		</div>
-		<div class="container clearfix">
-			<div class="col_full clearfix">
-				
-				
-				<div class="masonry-thumbs grid-6" data-big="3" data-lightbox="gallery" style="height: 513.75px !important">
-					<a href="../n-images/proyectos/ma/galeria/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/1.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/2.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/3.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/4.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/5.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/6.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/7.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/8.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/9.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/10.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/11.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/12.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/13.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/14.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-					<a href="../n-images/proyectos/ma/galeria/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/ma/galeria/15.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
-				</div>
-			</div>
-		</div>
-	</div>
+   <div class="content-wrap">
+      <div class="heading-block center">
+         <h2 title="Amenidades del condominio, Modelos disponibles, ubicación del condominio﻿">Galería <span>Monte Alto</span></h2>
+         <span>Espacios internos y áreas externas del proyecto</span>
+      </div>
+      <div class="container clearfix">
+         <div class="col_full clearfix">
+            
+            
+            <div class="masonry-thumbs grid-6" data-big="3" data-lightbox="gallery" style="height: 513.75px !important">
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/1.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/2.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/3.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/4.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/5.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/6.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/7.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/8.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/9.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/10.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/11.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/12.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/13.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/14.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/ma/galeria/15.jpg" alt="Apartamento Modelo - Condominio Monte Alto - Concasa"></a>
+            </div>
+         </div>
+      </div>
+   </div>
 </section>
 <!-- End Gallery -->
 
@@ -399,12 +399,12 @@
    </div>
    <div class="container-fullwidth clearfix">
       <div class="col_half imac-ajust" data-animate="fadeInLeftBig">
-         <img src="../n-images/device-top.png" alt="imac-top-video">
-         <video poster="../images/videos/explore-poster.jpg" preload="auto" controls style="display: block; width: 100%;" autoplay loop muted>
-            <source src='https://concasa.com/video/concasa_video.webm' type='video/webm' />
-            <source src='https://concasa.com/video/concasa_video.mp4' type='video/mp4' />
+         <img src="//cdn.concasa.com/concasa.com/images/n-images/device-top.png" alt="imac-top-video">
+         <video poster="//cdn.concasa.com/concasa.com/images/videos/explore-poster.jpg" preload="auto" controls style="display: block; width: 100%;" autoplay loop muted>
+            <source src='//cdn.concasa.com/concasa.com/images/videos/concasa_video.webm' type='video/webm' />
+            <source src='//cdn.concasa.com/concasa.com/images/videos/concasa_video.mp4' type='video/mp4' />
          </video>
-         <img src="../n-images/device-bottom.png" alt="imac-bottom-video">
+         <img src="//cdn.concasa.com/concasa.com/images/n-images/device-bottom.png" alt="imac-bottom-video">
       </div>
       <div class="col_half col_last" data-animate="fadeInRightBig">
          <div class="one-half first">
@@ -491,75 +491,72 @@
 
 <!-- Star Modal Calendly -->
 <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-sm">
-		<div class="modal-body">
-			<div class="modal-content">
-				<div class="modal-header">
-					<h4 class="modal-title txtconcasaini" id="myModalLabel" style="font-size: 16px !important;">&nbsp;</h4>
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				</div>
-				<div class="modal-body" style="text-align: center;">
-					<p class="modalbottons" style="display: none;"></p>
-						<h4 style="font-size: 16px !important; margin-top: 10px; text-transform: initial !important; font-weight: bold;" class="text-center">¿Cómo le gustaría su visita?</h4>
-						<div class="clear"></div>
-						<a href="https://meetings.hubspot.com/j-guzman2/asesoria-inmobiliaria-de-20-minutos" target="_blank" class="button button-border button-rounded button-small noleftmargin topmargin-sm" style="width: 100px;">Virtual</a>
+   <div class="modal-dialog modal-sm">
+      <div class="modal-body">
+         <div class="modal-content">
+            <div class="modal-header">
+               <h4 class="modal-title txtconcasaini" id="myModalLabel" style="font-size: 16px !important;">&nbsp;</h4>
+               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body" style="text-align: center;">
+               <p class="modalbottons" style="display: none;"></p>
+                  <h4 style="font-size: 16px !important; margin-top: 10px; text-transform: initial !important; font-weight: bold;" class="text-center">¿Cómo le gustaría su visita?</h4>
+                  <div class="clear"></div>
+                  <a href="//meetings.hubspot.com/j-guzman2/asesoria-inmobiliaria-de-20-minutos" target="_blank" class="button button-border button-rounded button-small noleftmargin topmargin-sm" style="width: 100px;">Virtual</a>
                         <br>o<br>
-                        <a onclick="Calendly.showPopupWidget('https://calendly.com/fonchog/visita-curridabat');return false;" class="button button-border button-rounded button-small noleftmargin " style="width: 100px;">Física</a>
-				</div>
-			</div>
-		</div>
-	</div>
+                        <a onclick="Calendly.showPopupWidget('//calendly.com/fonchog/visita-curridabat');return false;" class="button button-border button-rounded button-small noleftmargin " style="width: 100px;">Física</a>
+            </div>
+         </div>
+      </div>
+   </div>
 </div>
 <!-- End Modal Calendly -->
 
 
 <!-- Star Modal 360 -->
 <div class="modal1 mfp-hide myModal1" id="myModal1">
-	<div class="block divcenter" style="background-color: transparent; max-width: 500px;">
-		<div class="center">	
-			<iframe src="https://my.matterport.com/show/?m=5B9Q9dxKSyj" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo A" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-	</div>
+   <div class="block divcenter" style="background-color: transparent; max-width: 500px;">
+      <div class="center"> 
+         <iframe src="//my.matterport.com/show/?m=5B9Q9dxKSyj" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo A" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+   </div>
 </div>
 
 <div class="modal2 mfp-hide myModal2" id="myModal2">
-	<div class="block divcenter" style="background-color: transparent; max-width: 500px;">
-		<div class="center">	
-			<iframe src="https://my.matterport.com/show/?m=Eyavaj7pLx4" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo B" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-	</div>
+   <div class="block divcenter" style="background-color: transparent; max-width: 500px;">
+      <div class="center"> 
+         <iframe src="//my.matterport.com/show/?m=Eyavaj7pLx4" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo B" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+   </div>
 </div>
 <!-- End Modal 360 -->
 
 <!-- End Modal Infusionsoft -->
 <div class="modal3 mfp-hide subscribe-widget" id="myModal3">
-	<div class="block dark divcenter" style="background: url('../n-images/forms-626.jpg') no-repeat; background-size: cover; max-width: 700px; background-color: #000;" data-height-xl="480">
-		<div style="padding: 50px;">
-			<div class="heading-block nobottomborder bottommargin-sm" style="max-width:500px;">
-				<h3>Solicitá información</h3>
-				<span>Al completar el formulario recibirás toda la información del condominio directamente en tu correo.</span>
-			</div>
-			<div class="widget-subscribe-form-result"></div>
-			
-			<!--[if lte IE 8]>
-			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></
-			script>
-			<![endif]-->
-			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-			<script>
-			hbspt.forms.create({
-			region: "na1",
-			portalId: "8253184",
-			formId: "377eabdd-ef85-4e42-9979-ae3a171931f1"
-			});
-			</script>
-			
-		</div>
-	</div>
+   <div class="block dark divcenter" style="background: url('//cdn.concasa.com/concasa.com/images/n-images/forms-626.jpg') no-repeat; background-size: cover; max-width: 700px; background-color: #000;" data-height-xl="480">
+      <div style="padding: 50px;">
+         <div class="heading-block nobottomborder bottommargin-sm" style="max-width:500px;">
+            <h3>Solicitá información</h3>
+            <span>Al completar el formulario recibirás toda la información del condominio directamente en tu correo.</span>
+         </div>
+         <div class="widget-subscribe-form-result"></div>
+         
+         <!--[if lte IE 8]><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script> <![endif]-->
+         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+         <script>
+         hbspt.forms.create({
+         region: "na1",
+         portalId: "8253184",
+         formId: "377eabdd-ef85-4e42-9979-ae3a171931f1"
+         });
+         </script>
+         
+      </div>
+   </div>
 </div>
 <!-- End Modal Infusionsoft -->
 
-<script type="text/javascript" src="../n-js/scalize.js"></script>
+<script type="text/javascript" src="//cdn.concasa.com/concasa.com/js/n-js/scalize.js"></script>
 <script type="text/javascript">
    $(document).ready(function(){
         $('.scalize').scalize({
