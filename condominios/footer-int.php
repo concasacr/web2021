@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6" data-animate="fadeIn">
                     <div class="footer_panel  bottom20">
-                        <a href="#" class="footer_logo "><img src="../n-images/logo.svg" alt="Logo Concasa"></a>
+                        <a href="#" class="footer_logo "><img src="//cdn.concasa.com/concasa.com/images/n-images/logo.svg" alt="Logo Concasa"></a>
                         <p class="whitecolor bottom25" style="padding-left: 28px;">Mejor hogar de manera simple.</p>
                         <div class="d-table w-100 address-item whitecolor bottom25">
                             <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
@@ -13,10 +13,10 @@
                             </p>
                         </div>
                         <ul class="social-icons white wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
-                            <li><a href="https://www.facebook.com/concasa/" target="_blank" class="facebook"><i class="icon-facebook"></i> </a> </li>
-                            <li><a href="https://api.whatsapp.com/send?phone=50688482272" target="_blank" class="whatsapp"><i class="icon-whatsapp"></i> </a> </li>
-                            <li><a href="https://www.instagram.com/concasa_cr/" target="_blank" class="insta"><i class="icon-instagram"></i> </a> </li>
-                            <li><a href="https://www.youtube.com/channel/UCqDT6PY81ojzQHpADtIa-7A" target="_blank" class="youtube"><i class="icon-youtube"></i> </a> </li>
+                            <li><a href="//www.facebook.com/concasa/" target="_blank" class="facebook"><i class="icon-facebook"></i> </a> </li>
+                            <li><a href="//api.whatsapp.com/send?phone=50688482272" target="_blank" class="whatsapp"><i class="icon-whatsapp"></i> </a> </li>
+                            <li><a href="//www.instagram.com/concasa_cr/" target="_blank" class="insta"><i class="icon-instagram"></i> </a> </li>
+                            <li><a href="//www.youtube.com/channel/UCqDT6PY81ojzQHpADtIa-7A" target="_blank" class="youtube"><i class="icon-youtube"></i> </a> </li>
                         </ul>
                     </div>
                 </div>
@@ -79,14 +79,14 @@
     <div id="gotoTop" class="icon-angle-up"></div>
     
     <!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWWFZD3"
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WWWFZD3"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 
-    <script src="../n-js/jquery.js"></script>
-	<script src="../n-js/functions.js"></script>
-	<script src="../n-js/plugins.js"></script>
-	<script src="../n-js/site.js"></script>
-	<script src="../n-js/calculator.js"></script>
-	<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+        <script src="//cdn.concasa.com/concasa.com/js/n-js/jquery.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/functions.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/plugins.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/site.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/js/n-js/calculator.js"></script>
+	<script src="//assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 </body>
