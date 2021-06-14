@@ -1,13 +1,13 @@
 <!DOCTYPE HTML>
 <?php 
-	include $_SERVER['DOCUMENT_ROOT'].'/config/conf.php'; 
+	include $_SERVER['DOCUMENT_ROOT'].'/conf.php'; 
 	
 	include $_SERVER['DOCUMENT_ROOT'].'/Mobile_Detect.php';
 	
 	$detect = new Mobile_Detect;
 	 
 	if( $detect->isMobile() && !$detect->isTablet() ){
-		echo '<script>window.location.href = "http://www.concasa.com/contactenos";</script>';
+		echo '<script>window.location.href = "//www.concasa.com/contactenos";</script>';
 	}	
 ?>
 <head>
@@ -27,7 +27,7 @@
 	
 
 
-<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #0cb78f; background-image: url('n-images/contacto.jpg'); background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 850px;" data-top-bottom="background-position:0px -500px;">
+<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #0cb78f; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/contacto.jpg'); background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 850px;" data-top-bottom="background-position:0px -500px;">
 	<!--<div id="homepageint"></div>-->
 	<div class="container clearfix">
 		<h1>Contáctenos</h1>
@@ -62,10 +62,7 @@
 
 					<div class="form-result"></div>
 
-					<!--[if lte IE 8]>
-					<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></
-					script>
-					<![endif]-->
+					<!--[if lte IE 8]><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script><![endif]-->
 					<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 					<script>
 					hbspt.forms.create({
@@ -129,9 +126,4 @@
 <?php include 'all-projects-int.php'; ?>
 
 <?php include 'footer-int.php'; ?>
-<!-- End Includes for all themes  AIzaSyBPJdxdwbM5qdyCAE5l0jjRg5PlsKrqrBA -->
 
-<script type="text/javascript" src="https://wx394.infusionsoft.app/app/webTracking/getTrackingCode"></script>
-<script type="text/javascript" src="https://wx394.infusionsoft.com/resources/external/recaptcha/production/recaptcha.js?b=1.70.0.243838-hf-202006051217"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadInfusionRecaptchaCallback&render=explicit" async="async" defer="defer"></script>
-<script type="text/javascript" src="https://wx394.infusionsoft.com/app/timezone/timezoneInputJs?xid=70fd1ac48bd8dbc90fdea7225d204128"></script>
