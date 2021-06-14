@@ -26,7 +26,7 @@
                         <ul class="latest_news whitecolor">
 	                        <?php
 								$cont = 0;
-						        $url="//concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
+						        $url="https://concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
 						        $ch = curl_init();
 						        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 						        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
