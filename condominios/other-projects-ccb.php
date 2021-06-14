@@ -10,7 +10,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominio-626">
-                  <img src="../n-images/proyectos/general/proyectos-626.jpg" alt="Concasa - San rafael, alajuela">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-626.jpg" alt="Concasa - San rafael, alajuela">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominio-626" class="right-icon">$<?=number_format(getPrecioProperty('626','1'), 0, '.', ',');?> USD<br><span>3 Habitaciones</span></a>
@@ -26,7 +26,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominio-terrazas-del-norte">
-                  <img src="../n-images/proyectos/general/proyectos-tn.jpg" alt="Condomino - Terrazas del Norte">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-tn.jpg" alt="Condomino - Terrazas del Norte">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominio-terrazas-del-norte" class="right-icon">$<?=number_format(getPrecioProperty('Terrazas','2'), 0, '.', ',');?> USD<br><span>3 Habitaciones</span></a>
@@ -42,7 +42,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominio-costa-linda">
-                  <img src="../n-images/proyectos/general/proyectos-cl.jpg" alt="Condomino - Costa Linda">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-cl.jpg" alt="Condomino - Costa Linda">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominio-costa-linda" class="right-icon">$<?=number_format(getPrecioProperty('Costa','1'), 0, '.', ',');?> USD<br><span>2 Habitaciones</span></a>
@@ -58,7 +58,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominio-monte-alto">
-                  <img src="../n-images/proyectos/general/proyectos-ma.jpg" alt="Condomino - >Monte Alto">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-ma.jpg" alt="Condomino - >Monte Alto">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominio-monte-alto" class="right-icon">$<?=number_format(getPrecioProperty('Monte','1'), 0, '.', ',');?> USD<br><span>2 y 3 Habitaciones</span></a>
@@ -75,7 +75,7 @@
             <div class="iportfolio">
                <div class="portfolio-image">
                   <a href="./condominio-caminos-del-bosque">
-                  <img src="../n-images/proyectos/general/proyectos-cb.jpg" alt="Condomino - Caminos del Bosque">
+                  <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/general/proyectos-cb.jpg" alt="Condomino - Caminos del Bosque">
                   </a>
                   <div class="portfolio-overlay">
                      <a href="./condominio-caminos-del-bosque" class="right-icon">$<?=number_format(getPrecioProperty('Bosque','1'), 0, '.', ',');?> USD<br><span>2 Habitaciones</span></a>
