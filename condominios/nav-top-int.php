@@ -8,11 +8,11 @@
                 <ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
                     <li><a href="#" data-href="#section-projects">Proyectos </a></li>
                     <li><a href="../somos">Quienes somos</a></li>
-                    <li><a href="https://concasa.com/blog-inmobiliario/">Blog</a></li>
-                    <li><a href="https://concasa.life/" target="_blank"><div>Concasalife</div></a></li>
+                    <li><a href="//concasa.com/blog-inmobiliario/">Blog</a></li>
+                    <li><a href="//concasa.life/" target="_blank"><div>Concasalife</div></a></li>
                     <li><a href="../asesoria-virtual/">Asesoría Virtual</a></li>
                     <li><a href="../contact">Contacto</a></li>
-                    <li><a href="https://panama.concasa.com/">PTY</a></li>
+                    <li><a href="//panama.concasa.com/">PTY</a></li>
                 </ul>
             </div>
         </div>
