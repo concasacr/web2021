@@ -12,14 +12,14 @@
 	include 'header_int.php'; 
 	include 'nav-top-int.php'; 
 ?>
-<link rel="stylesheet" href="../n-css/magnific-popup.css" type="text/css" />
-<link rel="stylesheet" href="../n-css/scalize.css" />
-<link rel="stylesheet" href="../n-css/int.css" />
-<link rel="stylesheet" href="../n-css/dark.css" type="text/css">
-<link rel="stylesheet" href="../n-css/project.css" type="text/css">
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/magnific-popup.css" type="text/css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/scalize.css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/int.css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/dark.css" type="text/css">
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/project.css" type="text/css">
 	
 <!-- Star Header image -->	 
-<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('../n-images/proyectos/ccb/imgp-ccb.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/ccb/imgp-ccb.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
 	<div id="homepageint"></div>
 	<div class="container clearfix text-left-int" data-animate="bounceInLeft" data-delay="50">
 		<span style="margin-bottom: 5px;">Townhouse</span> 
@@ -63,7 +63,7 @@
          </div>
          <div class="col-xl-7">
             <div>
-               <img src="../n-images/proyectos/mapas/Mapas-web-CCB.jpg" data-animate="fadeInUp" data-delay="100" alt="Condominio  Caoba">
+               <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/mapas/Mapas-web-CCB.jpg" data-animate="fadeInUp" data-delay="100" alt="Condominio  Caoba">
             </div>
          </div>
       </div>
@@ -80,14 +80,14 @@
             <span>Amenidades, áreas sociales y áreas verdes</span>
          </div>
          <div class="row show-grid">
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/cb/CDB-21.jpg')"  data-animate="fadeIn"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/CDB-21.jpg')"  data-animate="fadeIn"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="100">
                <div class="col-padding-concasa ohidden">
                   <h3>Parque para mascotas</h3>
                   <p> Cerca del lago, rodeado de áreas verdes se encuentra un parque ideado especialmente para las mascotas.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/cb/CDB-20.jpg')" data-animate="fadeIn" data-delay="200"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/CDB-20.jpg')" data-animate="fadeIn" data-delay="200"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="300">
                <div class="col-padding-concasa ohidden">
                   <h3>Canchas multiuso</h3>
@@ -101,14 +101,14 @@
                   <p>La casa club, ubicada cerca de las torres, es perfecta para sus eventos y actividades. Cuenta con área de juegos con mesa de ping pong y futbolín, sala de TV.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/cb/CDB-19.jpg')" data-animate="fadeIn" data-delay="100"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/CDB-19.jpg')" data-animate="fadeIn" data-delay="100"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="200">
                <div class="col-padding-concasa ohidden">
                   <h3>Centro comercial</h3>
                   <p>El centro comercial Campo Real cuenta con supermercado, restaurantes, veterinaria, gimnasio, salón de belleza, entre otras facilidades.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/626/CC-900x900.jpg')" data-animate="fadeIn" data-delay="300"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/CC-900x900.jpg')" data-animate="fadeIn" data-delay="300"></div>
          </div>
       </div>
    </div>
@@ -140,31 +140,31 @@
                      
                      <div class="scalize" data-lightbox="gallery">
 	                    
-	                    <img data-animate="fadeInLeftBig" class="target" src="../n-images/isometric/CCB-A.png" alt="Planta Principal - Condominio  Caoba - Concasa">
+	                    <img data-animate="fadeInLeftBig" class="target" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/CCB-A.png" alt="Planta Principal - Condominio  Caoba - Concasa">
                         
                         <!-- Start Item Point 
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="145" data-left="289" data-popover="#content1"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content1" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Principal</h6></div><div class="body"><img src="../n-images/proyectos/626/zoom-02.jpg"></div></div>-->
+                        <div id="content1" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Principal</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/zoom-02.jpg"></div></div>-->
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point 
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="225" data-left="490" data-popover="#content3"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content3" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Cocina</h6></div><div class="body"><img src="../n-images/proyectos/626/zoom-01.jpg"></div></div>-->
+                        <div id="content3" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Cocina</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/zoom-01.jpg"></div></div>-->
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point 
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="260" data-left="215" data-popover="#content2"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content2" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="../n-images/proyectos/626/zoom-03.jpg"></div></div>-->
+                        <div id="content2" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/zoom-03.jpg"></div></div>-->
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="360" data-left="375" data-popover="#content4"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content4" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Sala</h6></div><div class="body"><img src="../n-images/proyectos/626/zoom-06.jpg"></div></div> -->
+                        <div id="content4" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Sala</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/zoom-06.jpg"></div></div> -->
                         <!-- End Item Point -->
                         
                         <!-- Start Item Point 
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="142" data-left="388" data-popover="#content6"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content6" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Ba&ntilde;o</h6></div><div class="body"><img src="../n-images/proyectos/626/zoom-05.jpg"></div></div>-->
+                        <div id="content6" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Ba&ntilde;o</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/zoom-05.jpg"></div></div>-->
                         <!-- End Item Point -->
                         
                      
@@ -236,7 +236,7 @@
                       <a href="#myModal3" class="botonmoreinfo" data-lightbox="inline"><span class="icon-line2-envelope-open"></span> Solicitar información</a>
                   </div>
                   <div class="col_three_fifth topmargin-sm " style="margin-right: 0 !important;margin-bottom: 0px !important;">
-                     <img data-animate="fadeInRightBig" src="../n-images/isometric/CCB-B.png" alt="Segunda Planta - Condominio  Caoba - Concasa">
+                     <img data-animate="fadeInRightBig" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/CCB-B.png" alt="Segunda Planta - Condominio  Caoba - Concasa">
                   </div>
                   <div class="clear"></div>
                   <div id="features-plan">
@@ -298,21 +298,21 @@
 				
 				
 				<div class="masonry-thumbs grid-6" data-big="3" data-lightbox="gallery" style="height: 513.75px !important">
-					<a href="../n-images/proyectos/cb/galeria/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/1.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/2.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/3.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/4.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/5.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/6.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/7.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/8.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/9.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/10.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/11.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/12.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/13.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/14.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
-					<a href="../n-images/proyectos/cb/galeria/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/cb/galeria/15.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/1.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/2.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/3.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/4.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/5.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/6.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/7.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/8.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/9.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/10.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/11.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/12.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/13.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/14.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
+					<a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/galeria/15.jpg" alt="Apartamento Modelo - Condominio  Caoba - Concasa"></a>
 				</div>
 			</div>
 		</div>
@@ -331,12 +331,12 @@
    </div>
    <div class="container-fullwidth clearfix">
       <div class="col_half imac-ajust" data-animate="fadeInLeftBig">
-         <img src="../n-images/device-top.png" alt="imac-top-video">
-         <video poster="images/videos/explore-poster.jpg" preload="auto" controls style="display: block; width: 100%;" autoplay loop muted>
-            <source src='https://concasa.com/video/concasa_video.webm' type='video/webm' />
-            <source src='https://concasa.com/video/concasa_video.mp4' type='video/mp4' />
+         <img src="//cdn.concasa.com/concasa.com/images/n-images/device-top.png" alt="imac-top-video">
+         <video poster="//cdn.concasa.com/concasa.com/images/videos/explore-poster.jpg" preload="auto" controls style="display: block; width: 100%;" autoplay loop muted>
+            <source src='//cdn.concasa.com/concasa.com/images/videos/concasa_video.webm' type='video/webm' />
+            <source src='//cdn.concasa.com/concasa.com/images/videos/concasa_video.mp4' type='video/mp4' />
          </video>
-         <img src="../n-images/device-bottom.png" alt="imac-bottom-video">
+         <img src="//cdn.concasa.com/concasa.com/images/n-images/device-bottom.png" alt="imac-bottom-video">
       </div>
       <div class="col_half col_last" data-animate="fadeInRightBig">
          <div class="one-half first">
@@ -429,9 +429,9 @@
 					<p class="modalbottons" style="display: none;"></p>
 						<h4 style="font-size: 16px !important; margin-top: 10px; text-transform: initial !important; font-weight: bold;" class="text-center">¿Cómo le gustaría su visita?</h4>
 						<div class="clear"></div>
-						<a href="https://meetings.hubspot.com/j-guzman2/asesoria-inmobiliaria-de-20-minutos" target="_blank" class="button button-border button-rounded button-small noleftmargin topmargin-sm" style="width: 100px;">Virtual</a>
+						<a href="//meetings.hubspot.com/j-guzman2/asesoria-inmobiliaria-de-20-minutos" target="_blank" class="button button-border button-rounded button-small noleftmargin topmargin-sm" style="width: 100px;">Virtual</a>
                         <br>o<br>
-                        <a onclick="Calendly.showPopupWidget('https://calendly.com/fonchog/visita-guiada-a-nuestros-proyectos');return false;" class="button button-border button-rounded button-small noleftmargin " style="width: 100px;">Física</a>
+                        <a onclick="Calendly.showPopupWidget('//calendly.com/fonchog/visita-guiada-a-nuestros-proyectos');return false;" class="button button-border button-rounded button-small noleftmargin " style="width: 100px;">Física</a>
 				</div>
 			</div>
 		</div>
@@ -442,7 +442,7 @@
 
 <!-- End Modal Infusionsoft -->
 <div class="modal3 mfp-hide subscribe-widget" id="myModal3">
-	<div class="block dark divcenter" style="background: url('../n-images/forms-626.jpg') no-repeat; background-size: cover; max-width: 700px; background-color: #000;" data-height-xl="480">
+	<div class="block dark divcenter" style="background: url('//cdn.concasa.com/concasa.com/images/n-images/forms-626.jpg') no-repeat; background-size: cover; max-width: 700px; background-color: #000;" data-height-xl="480">
 		<div style="padding: 50px;">
 			<div class="heading-block nobottomborder bottommargin-sm" style="max-width:500px;">
 				<h3>Solicitá información</h3>
