@@ -1,13 +1,13 @@
 <!DOCTYPE HTML>
 <?php 
-	include $_SERVER['DOCUMENT_ROOT'].'/config/conf.php'; 
+	include $_SERVER['DOCUMENT_ROOT'].'/conf.php'; 
 	
 	include $_SERVER['DOCUMENT_ROOT'].'/Mobile_Detect.php';
 	
 	$detect = new Mobile_Detect;
 	 
 	if( $detect->isMobile() && !$detect->isTablet() ){
-		echo '<script>window.location.href = "http://www.concasa.com/nosotros";</script>';
+		echo '<script>window.location.href = "//www.concasa.com/nosotros";</script>';
 	}	
 ?>
 <head>
@@ -23,8 +23,8 @@
 	include './nav-top-int.php'; 
 ?>
 
-<link rel="stylesheet" href="./n-css/normalize.min.css">
-<link rel='stylesheet' href='./n-css/swiper.min.css'>
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/normalize.min.css">
+<link rel='stylesheet' href='//cdn.concasa.com/concasa.com/css/n-css/swiper.min.css'>
 <style>
 body {
     overflow-x: hidden;
@@ -302,7 +302,7 @@ h4.timeline-title {
 
 	<!-- Page Title
 		============================================= -->
-		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #023a80; background-image: url('n-images/quienes-somos.jpg');  background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 550px;" data-top-bottom="background-position:0px -500px;">
+		<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #023a80; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/quienes-somos.jpg');  background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 550px;" data-top-bottom="background-position:0px -500px;">
 			<!--<div id="homepageint"></div>-->
 			<div class="container clearfix">
 				<h1>Desarrollamos <br>calidad de vida</h1>
@@ -368,93 +368,93 @@ h4.timeline-title {
   <div class="timeline">
     <div class="swiper-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Campo-Alto.jpg)" data-year="2004">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Campo-Alto.jpg)" data-year="2004">
           <div class="swiper-slide-content"><span class="timeline-year">2004</span>
             <h4 class="timeline-title">Campo Alto</h4>
             <p class="timeline-text">Proyecto con 192 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Costa-linda.jpg)" data-year="2006">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Costa-linda.jpg)" data-year="2006">
           <div class="swiper-slide-content"><span class="timeline-year">2006</span>
             <h4 class="timeline-title">Costa Linda</h4>
             <p class="timeline-text">Proyecto con 192 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Bosque-Real.jpg)" data-year="2007">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Bosque-Real.jpg)" data-year="2007">
           <div class="swiper-slide-content"><span class="timeline-year">2007</span>
             <h4 class="timeline-title">Bosque Real</h4>
             <p class="timeline-text">Proyecto con 336 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Paso-Real.jpg)" data-year="2009">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Paso-Real.jpg)" data-year="2009">
           <div class="swiper-slide-content"><span class="timeline-year">2009</span>
             <h4 class="timeline-title">Paso Real</h4>
             <p class="timeline-text">Proyecto con 224 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/vista-real.jpg)" data-year="2010">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/vista-real.jpg)" data-year="2010">
           <div class="swiper-slide-content"><span class="timeline-year">2010</span>
             <h4 class="timeline-title">Vista Real </h4>
             <p class="timeline-text">Proyecto con 196 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
        
-       <div class="swiper-slide" style="background-image: url(n-images/timeline/vistas-del-lago.jpg)" data-year="2011">
+       <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/vistas-del-lago.jpg)" data-year="2011">
           <div class="swiper-slide-content"><span class="timeline-year">2011</span>
             <h4 class="timeline-title">Vistas del Lago</h4>
             <p class="timeline-text">Proyecto con 69 casas en condominio horizontal ubicado en Alajuela.</p>
           </div>
         </div>
         
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Terrazas-del-Oeste.jpg)" data-year="2012">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Terrazas-del-Oeste.jpg)" data-year="2012">
           <div class="swiper-slide-content"><span class="timeline-year">2012</span>
             <h4 class="timeline-title">Terrazas Del Oeste</h4>
             <p class="timeline-text">Proyecto con 594 casas en condominio horizontal ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Centro-comercial.jpg)" data-year="2013">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Centro-comercial.jpg)" data-year="2013">
           <div class="swiper-slide-content"><span class="timeline-year">2013</span>
             <h4 class="timeline-title">Comercial Campo Real</h4>
             <p class="timeline-text">Proyecto con 40 locales comerciales ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Villas-del-campo.jpg)" data-year="2013">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Villas-del-campo.jpg)" data-year="2013">
           <div class="swiper-slide-content"><span class="timeline-year">2013</span>
             <h4 class="timeline-title">Villas Del Campo</h4>
             <p class="timeline-text">Proyecto con 196 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/Valle-escondido.jpg)" data-year="2014">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/Valle-escondido.jpg)" data-year="2014">
           <div class="swiper-slide-content"><span class="timeline-year">2014</span>
             <h4 class="timeline-title">Valle Escondido</h4>
             <p class="timeline-text">Proyecto con 198 casas en condominio horizontal ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/910.jpg)" data-year="2015">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/910.jpg)" data-year="2015">
           <div class="swiper-slide-content"><span class="timeline-year">2015</span>
             <h4 class="timeline-title">Condominio 9-10</h4>
             <p class="timeline-text">Proyecto con 380 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/TN.jpg)" data-year="2017">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/TN.jpg)" data-year="2017">
           <div class="swiper-slide-content"><span class="timeline-year">2017</span>
             <h4 class="timeline-title">Terrazas Del Norte</h4>
             <p class="timeline-text">Proyecto con 546 casas en condominio horizontal ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/626.jpg)" data-year="2018">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/626.jpg)" data-year="2018">
           <div class="swiper-slide-content"><span class="timeline-year">2018</span>
             <h4 class="timeline-title">Condominio 6-26</h4>
             <p class="timeline-text">Proyecto con 378 apartamentos en condominio vertical ubicado en Alajuela.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/MA.jpg)" data-year="2019">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/MA.jpg)" data-year="2019">
           <div class="swiper-slide-content"><span class="timeline-year">2019</span>
             <h4 class="timeline-title">Monte Alto</h4>
             <p class="timeline-text">Proyecto con 288 apartamentos en condominio vertical ubicado en Curridabat.</p>
           </div>
         </div>
-        <div class="swiper-slide" style="background-image: url(n-images/timeline/CDB.jpg)" data-year="2020">
+        <div class="swiper-slide" style="background-image: url(//cdn.concasa.com/concasa.com/images/n-images/timeline/CDB.jpg)" data-year="2020">
           <div class="swiper-slide-content"><span class="timeline-year">2020</span>
             <h4 class="timeline-title">Caminos del Bosque</h4>
             <p class="timeline-text">Proyecto con 60 apartamentos en condominio vertical ubicado en Alajuela.</p>
@@ -519,7 +519,7 @@ h4.timeline-title {
 <?php include 'footer-int.php'; ?>
 <!-- End Includes for all themes -->
 
-<script src='./n-js/swiper.min.js'></script>
+<script src='//cdn.concasa.com/concasa.com/js/n-js/swiper.min.js'></script>
 
 <script>
 var timelineSwiper = new Swiper ('.timeline .swiper-container', {
