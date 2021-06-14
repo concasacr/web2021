@@ -3,32 +3,32 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Condominio Terrazas del norte - Su residencial en Alajuela - Concasa﻿</title>
-		<meta name="author" content="Condominio Terrazas del norte - Su residencial en Alajuela - Concasa﻿." />
-		<meta name="description" content="Condominio Terrazas del norte ubicado en San Rafael de Alajuela. Conozca su futuro hogar en nuestro espectacular residencial﻿"/>
-		<meta property="og:description" content="Condominio Terrazas del norte ubicado en San Rafael de Alajuela. Conozca su futuro hogar en nuestro espectacular residencial﻿" />
-		<meta name="keywords"  content="condominios en costa rica, residenciales en costa rica, Condominios en Alajuela, Condominio caminos del bosque﻿" />
-	
+      <meta name="author" content="Condominio Terrazas del norte - Su residencial en Alajuela - Concasa﻿." />
+      <meta name="description" content="Condominio Terrazas del norte ubicado en San Rafael de Alajuela. Conozca su futuro hogar en nuestro espectacular residencial﻿"/>
+      <meta property="og:description" content="Condominio Terrazas del norte ubicado en San Rafael de Alajuela. Conozca su futuro hogar en nuestro espectacular residencial﻿" />
+      <meta name="keywords"  content="condominios en costa rica, residenciales en costa rica, Condominios en Alajuela, Condominio caminos del bosque﻿" />
+   
 <?php 
-	include 'header_int.php'; 
-	include 'nav-top-int.php'; 
+   include 'header_int.php'; 
+   include 'nav-top-int.php'; 
 ?>
-<link rel="stylesheet" href="../n-css/magnific-popup.css" type="text/css" />
-<link rel="stylesheet" href="../n-css/scalize.css" />
-<link rel="stylesheet" href="../n-css/int.css" />
-<link rel="stylesheet" href="../n-css/dark.css" type="text/css">
-<link rel="stylesheet" href="../n-css/project.css" type="text/css">
-	
-<!-- Star Header image -->	 
-<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('../n-images/proyectos/tn/imgp-tn.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
-	<div id="homepageint"></div>
-	<div class="container clearfix text-left-int" data-animate="bounceInLeft" data-delay="50">
-		<span style="margin-bottom: 5px;">Casas</span>
-		<h1 title="Condominio Terrazas del Norte - Su Hogar en Alajuela﻿">Terrazas del Norte</h1>
-		<span>San Rafael, Alajuela</span>
-	</div>
-	
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/magnific-popup.css" type="text/css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/scalize.css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/int.css" />
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/dark.css" type="text/css">
+<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/project.css" type="text/css">
+   
+<!-- Star Header image -->  
+<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/imgp-tn.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+   <div id="homepageint"></div>
+   <div class="container clearfix text-left-int" data-animate="bounceInLeft" data-delay="50">
+      <span style="margin-bottom: 5px;">Casas</span>
+      <h1 title="Condominio Terrazas del Norte - Su Hogar en Alajuela﻿">Terrazas del Norte</h1>
+      <span>San Rafael, Alajuela</span>
+   </div>
+   
 </section>
-<!-- End Header image -->	
+<!-- End Header image -->  
 
 <!-- Page Sub Menu -->
 <div id="page-menu" class="bottom60">
@@ -50,8 +50,8 @@
    </div>
 </div>
 <!-- #page-menu end -->
-				
-<!-- Star information -->					
+            
+<!-- Star information -->              
 <section id="section-information" class="page-section bottom60">
    <div class="container-fullwidth clearfix">
       <div class="row clearfix">
@@ -63,7 +63,7 @@
          </div>
          <div class="col-xl-7">
             <div>
-               <img src="../n-images/proyectos/mapas/Mapas-web-TN.jpg" data-animate="fadeInUp" data-delay="100" alt="Condominio Terrazas del Norte">
+               <img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/mapas/Mapas-web-TN.jpg" data-animate="fadeInUp" data-delay="100" alt="Condominio Terrazas del Norte">
             </div>
          </div>
       </div>
@@ -80,14 +80,14 @@
             <span>Amenidades, áreas sociales y áreas verdes</span>
          </div>
          <div class="row show-grid">
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/tn/tn1.jpg')"  data-animate="fadeIn"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn1.jpg')"  data-animate="fadeIn"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="100">
                <div class="col-padding-concasa ohidden">
                   <h3>Casa club</h3>
                   <p> La casa club, ubicada a la par del área de piscina, cuenta con cocina, área de juegos, sala de TV y terraza, perfecta para tus actividades y eventos.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/tn/tn2.jpg')" data-animate="fadeIn" data-delay="200"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn2.jpg')" data-animate="fadeIn" data-delay="200"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="300">
                <div class="col-padding-concasa ohidden">
                   <h3>Deck para bronceado</h3>
@@ -101,19 +101,19 @@
                   <p> Además de espacios como los ranchos BBQ las amplias áreas verdes en el proyecto son ideales para descansar o hacer caminatas al aire libre.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/tn/tn3.jpg')" data-animate="fadeIn" data-delay="100"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn3.jpg')" data-animate="fadeIn" data-delay="100"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="200">
                <div class="col-padding-concasa ohidden">
                   <h3>Área de piscina</h3>
                   <p> El área de piscina cuenta con piscina semi olímpica, deck para bronceado, piscina para niños y juegos acuáticos.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('../n-images/proyectos/tn/tn4.jpg')" data-animate="fadeIn" data-delay="300"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn4.jpg')" data-animate="fadeIn" data-delay="300"></div>
          </div>
       </div>
    </div>
-</section>	
-<!-- End Amenities -->		
+</section>  
+<!-- End Amenities -->     
 
 <!-- Star Models -->
 <section id="section-models" class="page-section">
@@ -139,26 +139,26 @@
                   <div class="col_three_fifth topmargin-sm  " style="margin-bottom: 0px !important;">
                      
                      <div class="scalize" data-lightbox="gallery">
-	                    
-	                    <img data-animate="fadeInLeftBig" class="target" src="../n-images/isometric/TN-A.png" alt="Modelo A - Condominio Terrazas del Norte - Concasa">
+                       
+                       <img data-animate="fadeInLeftBig" class="target" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/TN-A.png" alt="Modelo A - Condominio Terrazas del Norte - Concasa">
                         
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="228" data-left="455" data-popover="#content1"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content1" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Ba&ntilde;o</h6></div><div class="body"><img src="../n-images/proyectos/tn/zoom-06.jpg"></div></div>
+                        <div id="content1" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Ba&ntilde;o</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/zoom-06.jpg"></div></div>
                         
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="90" data-left="460" data-popover="#content3"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content3" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Terraza</h6></div><div class="body"><img src="../n-images/proyectos/tn/zoom-01.jpg"></div></div>
+                        <div id="content3" class="content right top"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Terraza</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/zoom-01.jpg"></div></div>
                         
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="208" data-left="308" data-popover="#content2"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content2" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Sala</h6></div><div class="body"><img src="../n-images/proyectos/tn/zoom-05.jpg"></div></div>
+                        <div id="content2" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Sala</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/zoom-05.jpg"></div></div>
                         
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="305" data-left="345" data-popover="#content4"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content4" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="../n-images/proyectos/tn/zoom-02.jpg"></div></div>
+                        <div id="content4" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Secundario</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/zoom-02.jpg"></div></div>
                         
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="165" data-left="490" data-popover="#content6"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content6" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Principal</h6></div><div class="body"><img src="../n-images/proyectos/tn/zoom-03.jpg"></div></div>
+                        <div id="content6" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Dormitorio Principal</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/zoom-03.jpg"></div></div>
                         
                         <div data-animate="fadeInLeftBig" class="item-point" data-top="142" data-left="375" data-popover="#content5"><div><a href="#" class="toggle"></a></div></div>
-                        <div id="content5" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Cocina</h6></div><div class="body"><img src="../n-images/proyectos/tn/zoom-04.jpg"></div></div>
+                        <div id="content5" class="content right bottom"><div class="head"><a href="#" class="exit"><i class="icon-line-cross"></i></a><h6 class="title">Cocina</h6></div><div class="body"><img src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/zoom-04.jpg"></div></div>
                         
                      </div>
                      
@@ -229,7 +229,7 @@
                       <a href="#myModal3" class="botonmoreinfo" data-lightbox="inline"><span class="icon-line2-envelope-open"></span> Solicitar información</a>
                   </div>
                   <div class="col_three_fifth topmargin-sm " style="margin-right: 0 !important;margin-bottom: 0px !important;">
-                     <img data-animate="fadeInRightBig" src="../n-images/isometric/TN-B.png" alt="Modelo B - Condominio Terrazas del Norte - Concasa">
+                     <img data-animate="fadeInRightBig" src="//cdn.concasa.com/concasa.com/images/n-images/isometric/TN-B.png" alt="Modelo B - Condominio Terrazas del Norte - Concasa">
                   </div>
                   <div class="clear"></div>
                   <div id="features-plan">
@@ -281,34 +281,34 @@
 
 <!-- Star Gallery -->
 <section id="section-gallery" class="page-section">
-	<div class="content-wrap">
-		<div class="heading-block center">
-			<h2 title="Amenidades del condominio, Modelos disponibles, ubicación del condominio﻿">Galería <span>Terrazas del Norte</span></h2>
-			<span>Espacios internos y áreas externas del proyecto</span>
-		</div>
-		<div class="container clearfix">
-			<div class="col_full clearfix">
+   <div class="content-wrap">
+      <div class="heading-block center">
+         <h2 title="Amenidades del condominio, Modelos disponibles, ubicación del condominio﻿">Galería <span>Terrazas del Norte</span></h2>
+         <span>Espacios internos y áreas externas del proyecto</span>
+      </div>
+      <div class="container clearfix">
+         <div class="col_full clearfix">
 
-				<div class="masonry-thumbs grid-6" data-big="3" data-lightbox="gallery" style="height: 513.75px !important">
-					<a href="../n-images/proyectos/tn/galeria/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/1.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/2.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/3.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/4.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/tn-05.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/tn-05.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/5.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/6.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/7.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/tn-08.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/tn-08.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/8.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/9.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/10.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/11.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/galeria/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/galeria/12.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-					<a href="../n-images/proyectos/tn/tn-10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="../n-images/proyectos/tn/tn-10.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
-				</div>
-			</div>
-		</div>
-	</div>
+            <div class="masonry-thumbs grid-6" data-big="3" data-lightbox="gallery" style="height: 513.75px !important">
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/1.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/2.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/3.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/4.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn-05.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn-05.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/5.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/6.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/7.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn-08.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn-08.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/8.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/9.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/10.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/11.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/galeria/12.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+               <a href="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn-10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="//cdn.concasa.com/concasa.com/images/n-images/proyectos/tn/tn-10.jpg" alt="Apartamento Modelo - Condominio Terrazas del Norte - Concasa"></a>
+            </div>
+         </div>
+      </div>
+   </div>
 </section>
 <!-- End Gallery -->
 
@@ -323,12 +323,12 @@
    </div>
    <div class="container-fullwidth clearfix">
       <div class="col_half imac-ajust" data-animate="fadeInLeftBig">
-         <img src="../n-images/device-top.png" alt="imac-top-video">
-         <video poster="../images/videos/explore-poster.jpg" preload="auto" controls style="display: block; width: 100%;" autoplay loop muted>
-            <source src='https://concasa.com/video/concasa_video.webm' type='video/webm' />
-            <source src='https://concasa.com/video/concasa_video.mp4' type='video/mp4' />
+         <img src="//cdn.concasa.com/concasa.com/images/n-images/device-top.png" alt="imac-top-video">
+         <video poster="//cdn.concasa.com/concasa.com/images/videos/explore-poster.jpg" preload="auto" controls style="display: block; width: 100%;" autoplay loop muted>
+            <source src='//cdn.concasa.com/concasa.com/images/videos/concasa_video.webm' type='video/webm' />
+            <source src='//cdn.concasa.com/concasa.com/images/videos/concasa_video.mp4' type='video/mp4' />
          </video>
-         <img src="../n-images/device-bottom.png" alt="imac-bottom-video">
+         <img src="//cdn.concasa.com/concasa.com/images/n-images/device-bottom.png" alt="imac-bottom-video">
       </div>
       <div class="col_half col_last" data-animate="fadeInRightBig">
          <div class="one-half first">
@@ -415,75 +415,72 @@
 
 <!-- Star Modal Calendly -->
 <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-sm">
-		<div class="modal-body">
-			<div class="modal-content">
-				<div class="modal-header">
-					<h4 class="modal-title txtconcasaini" id="myModalLabel" style="font-size: 16px !important;">&nbsp;</h4>
-					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				</div>
-				<div class="modal-body" style="text-align: center;">
-					<p class="modalbottons" style="display: none;"></p>
-						<h4 style="font-size: 16px !important; margin-top: 10px; text-transform: initial !important; font-weight: bold;" class="text-center">¿Cómo le gustaría su visita?</h4>
-						<div class="clear"></div>
-						<a href="https://meetings.hubspot.com/j-guzman2/asesoria-inmobiliaria-de-20-minutos" target="_blank" class="button button-border button-rounded button-small noleftmargin topmargin-sm" style="width: 100px;">Virtual</a>
+   <div class="modal-dialog modal-sm">
+      <div class="modal-body">
+         <div class="modal-content">
+            <div class="modal-header">
+               <h4 class="modal-title txtconcasaini" id="myModalLabel" style="font-size: 16px !important;">&nbsp;</h4>
+               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body" style="text-align: center;">
+               <p class="modalbottons" style="display: none;"></p>
+                  <h4 style="font-size: 16px !important; margin-top: 10px; text-transform: initial !important; font-weight: bold;" class="text-center">¿Cómo le gustaría su visita?</h4>
+                  <div class="clear"></div>
+                  <a href="//meetings.hubspot.com/j-guzman2/asesoria-inmobiliaria-de-20-minutos" target="_blank" class="button button-border button-rounded button-small noleftmargin topmargin-sm" style="width: 100px;">Virtual</a>
                         <br>o<br>
-                        <a onclick="Calendly.showPopupWidget('https://calendly.com/fonchog/visita-guiada-a-nuestros-proyectos');return false;" class="button button-border button-rounded button-small noleftmargin " style="width: 100px;">Física</a>
-				</div>
-			</div>
-		</div>
-	</div>
+                        <a onclick="Calendly.showPopupWidget('//calendly.com/fonchog/visita-guiada-a-nuestros-proyectos');return false;" class="button button-border button-rounded button-small noleftmargin " style="width: 100px;">Física</a>
+            </div>
+         </div>
+      </div>
+   </div>
 </div>
 <!-- End Modal Calendly -->
 
 
 <!-- Star Modal 360 -->
 <div class="modal1 mfp-hide myModal1" id="myModal1">
-	<div class="block divcenter" style="background-color: transparent; max-width: 500px;">
-		<div class="center">	
-			<iframe src="https://my.matterport.com/show/?m=KWnRRyWWGCG" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo A" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-	</div>
+   <div class="block divcenter" style="background-color: transparent; max-width: 500px;">
+      <div class="center"> 
+         <iframe src="//my.matterport.com/show/?m=KWnRRyWWGCG" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo A" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+   </div>
 </div>
 
 <div class="modal2 mfp-hide myModal2" id="myModal2">
-	<div class="block divcenter" style="background-color: transparent; max-width: 500px;">
-		<div class="center">	
-			<iframe src="https://my.matterport.com/show/?m=CHWN48adS2T" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo B" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>
-	</div>
+   <div class="block divcenter" style="background-color: transparent; max-width: 500px;">
+      <div class="center"> 
+         <iframe src="//my.matterport.com/show/?m=CHWN48adS2T" style="min-height: 400px; min-width: 600px; width: 100%;" title="Modelo B" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+   </div>
 </div>
 <!-- End Modal 360 -->
 
 <!-- End Modal Infusionsoft -->
 <div class="modal3 mfp-hide subscribe-widget" id="myModal3">
-	<div class="block dark divcenter" style="background: url('../n-images/forms-626.jpg') no-repeat; background-size: cover; max-width: 700px; background-color: #000;" data-height-xl="480">
-		<div style="padding: 50px;">
-			<div class="heading-block nobottomborder bottommargin-sm" style="max-width:500px;">
-				<h3>Solicitá información</h3>
-				<span>Al completar el formulario recibirás toda la información del condominio directamente en tu correo.</span>
-			</div>
-			<div class="widget-subscribe-form-result"></div>
-			
-			<!--[if lte IE 8]>
-			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></
-			script>
-			<![endif]-->
-			<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-			<script>
-			hbspt.forms.create({
-			region: "na1",
-			portalId: "8253184",
-			formId: "84849d8c-3894-4886-b70d-bb21d657aeff"
-			});
-			</script>
-			
-		</div>
-	</div>
+   <div class="block dark divcenter" style="background: url('//cdn.concasa.com/concasa.com/images/n-images/forms-626.jpg') no-repeat; background-size: cover; max-width: 700px; background-color: #000;" data-height-xl="480">
+      <div style="padding: 50px;">
+         <div class="heading-block nobottomborder bottommargin-sm" style="max-width:500px;">
+            <h3>Solicitá información</h3>
+            <span>Al completar el formulario recibirás toda la información del condominio directamente en tu correo.</span>
+         </div>
+         <div class="widget-subscribe-form-result"></div>
+         
+         <!--[if lte IE 8]><script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script><![endif]-->
+         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+         <script>
+         hbspt.forms.create({
+         region: "na1",
+         portalId: "8253184",
+         formId: "84849d8c-3894-4886-b70d-bb21d657aeff"
+         });
+         </script>
+         
+      </div>
+   </div>
 </div>
 <!-- End Modal Infusionsoft -->
 
-<script type="text/javascript" src="../n-js/scalize.js"></script>
+<script type="text/javascript" src="//cdn.concasa.com/concasa.com/js/n-js/scalize.js"></script>
 <script type="text/javascript">
    $(document).ready(function(){
         $('.scalize').scalize({
