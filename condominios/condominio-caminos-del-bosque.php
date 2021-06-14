@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/css/n-css/project.css" type="text/css">
    
 <!-- Star Header image -->  
-<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/n-images/proyectos/cb/imgp-cb.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
+<section id="page-title" class="page-title-parallax page-title-dark page-title-right dark" style="padding: 450px 0; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/imgp-cb.jpg'); background-size: cover; background-position: center center;" data-bottom-top="background-position:0px 440px;" data-top-bottom="background-position:0px -500px;">
    <div id="homepageint"></div>
    <div class="container clearfix text-left-int" data-animate="bounceInLeft" data-delay="50">
       <span style="margin-bottom: 5px;">Apartamentos</span> 
@@ -80,14 +80,14 @@
             <span>Amenidades, áreas sociales y áreas verdes</span>
          </div>
          <div class="row show-grid">
-            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/n-images/proyectos/cb/CDB-21.jpg')"  data-animate="fadeIn"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/CDB-21.jpg')"  data-animate="fadeIn"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="100">
                <div class="col-padding-concasa ohidden">
                   <h3>Parque para mascotas</h3>
                   <p> Cerca del lago, rodeado de áreas verdes se encuentra un parque ideado especialmente para las mascotas.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/n-images/proyectos/cb/CDB-20.jpg')" data-animate="fadeIn" data-delay="200"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/CDB-20.jpg')" data-animate="fadeIn" data-delay="200"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="300">
                <div class="col-padding-concasa ohidden">
                   <h3>Canchas multiuso</h3>
@@ -101,14 +101,14 @@
                   <p>La casa club, ubicada cerca de las torres, es perfecta para sus eventos y actividades. Cuenta con área de juegos con mesa de ping pong y futbolín, sala de TV.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/n-images/proyectos/cb/CDB-19.jpg')" data-animate="fadeIn" data-delay="100"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/cb/CDB-19.jpg')" data-animate="fadeIn" data-delay="100"></div>
             <div class="col-lg-3" data-animate="fadeIn" data-delay="200">
                <div class="col-padding-concasa ohidden">
                   <h3>Centro comercial</h3>
                   <p>El centro comercial Campo Real cuenta con supermercado, restaurantes, veterinaria, gimnasio, salón de belleza, entre otras facilidades.</p>
                </div>
             </div>
-            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/n-images/proyectos/626/CC-900x900.jpg')" data-animate="fadeIn" data-delay="300"></div>
+            <div class="col-lg-3" style="background-image: url('//cdn.concasa.com/concasa.com/images/n-images/proyectos/626/CC-900x900.jpg')" data-animate="fadeIn" data-delay="300"></div>
          </div>
       </div>
    </div>
