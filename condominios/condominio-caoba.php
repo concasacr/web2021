@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/config/conf.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/conf.php'; ?>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>Condominio Caoba - Su condominio en Cuidad Colón - Concasa</title>
