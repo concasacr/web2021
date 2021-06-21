@@ -1,6 +1,6 @@
 <div class="form-widget">
 	<div class="row shadow bg-light border">
-		<div class="col-lg-4 dark" style="background: url('./n-images/postventa-1.jpg') center center / cover; min-height: 400px;"></div>
+		<div class="col-lg-4 dark" style="background: url('//cdn.concasa.com/concasa.com/clientes/images/n-images/postventa-1.jpg') center center / cover; min-height: 400px;"></div>
 		<div class="col-lg-8 p-5">
 			<form action="" method="post" enctype="multipart/form-data" name="myFormZendeskD" id="myFormZendeskD" class="form_group_actionsD row mb-0">
 			   <input id="project" name="project" type="hidden" value="monte_alto">
