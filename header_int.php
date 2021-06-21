@@ -32,16 +32,16 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <!-- CSS Styles -->
-        <link rel="stylesheet" href="n-css/style.css">
-        <link rel="stylesheet" href="n-css/media.css">
-        <link rel="stylesheet" href="n-css/responsive.css" type="text/css" />
+        <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/clientes/css/n-css/style.css">
+        <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/clientes/css/n-css/media.css">
+        <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/clientes/css/n-css/responsive.css" type="text/css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-		<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css'>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css'>
         
         
 
     <!-- Icons -->
-    <link rel="stylesheet" href="n-css/font-awesome.css">
+    <link rel="stylesheet" href="//cdn.concasa.com/concasa.com/clientes/css/n-css/font-awesome.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
 
