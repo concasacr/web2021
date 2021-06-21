@@ -16,7 +16,7 @@
 	
 
 
-<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #2b0c38; background-image: url('//cdn.concasa.com/concasa.com/clientes/images/n-images/privacidad.jpg'); background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 550px;" data-top-bottom="background-position:0px -500px;">
+<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #2b0c38; background-image: url('//cdn.concasa.com/concasa.com/images/n-images/privacidad.jpg'); background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 550px;" data-top-bottom="background-position:0px -500px;">
 	<!--<div id="homepageint"></div>-->
 	<div class="container clearfix">
 		<h1>Política de privacidad</h1>
