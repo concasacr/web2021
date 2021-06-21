@@ -10,7 +10,7 @@
 	<!-- Calendly link widget begin -->
 	<link href="//calendly.com/assets/external/widget.css" rel="stylesheet">
 	<script src="//calendly.com/assets/external/widget.js" type="text/javascript"></script>
-	<link rel="stylesheet" href="./n-css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="//cdn.concasa.com/concasa.com/clientes/css/n-css/font-icons.css" type="text/css" />
 	<!-- Calendly link widget end -->
 	
     <title>Hemos recibido su solicitud | Concasa</title>
@@ -18,7 +18,7 @@
 	    .masthead {
 		  height: 100vh;
 		  min-height: 500px;
-		  background-image: url('./images/back.jpeg');
+		  background-image: url('//cdn.concasa.com/concasa.com/clientes/images/images/back.jpeg');
 		  background-size: cover;
 		  background-position: center;
 		  background-repeat: no-repeat;
@@ -47,7 +47,7 @@
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <div class="col-12 text-center">
-	      <img src="https://concasa.com/images/logo-b.svg" style="width: 320px;margin-bottom: 30px;"/>
+	      <img src="//cdn.concasa.com/concasa.com/clientes/images/images/logo-b.svg" style="width: 320px;margin-bottom: 30px;"/>
         <h1 class="font-weight-light">Hemos recibido su solicitud</h1>
         <p class="lead">Muy pronto nos pondremos en contacto con usted, si lo desea puede:</p>
 			<a class="btn btn-primary" href="tel:+50624389075" role="button" alt="Llamar" title="Llamar"><i class="icon-phone-volume"></i></a>&nbsp;&nbsp;&nbsp;
@@ -69,7 +69,6 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="https://wx394.infusionsoft.app/app/webTracking/getTrackingCode"></script>
     
   </body>
 </html>
