@@ -25,19 +25,19 @@
                         <h3 class="whitecolor bottom25">Últimas noticias</h3>
                         <ul class="latest_news whitecolor">
                             <?php
-								$cont = 0;
-						        $url="https://concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
-						        $ch = curl_init();
-						        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-						        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-						        curl_setopt($ch, CURLOPT_URL,$url);
-						        $result=curl_exec($ch);
-						        $posts = json_decode($result, true);
-						       
-						        foreach ($posts as $post) { 
-							        $cont++;
-							         if ($cont < 4){
-					        ?>
+				$cont = 0;
+				$url="https://concasa.com/blog-inmobiliario/wp-json/wp/v2/posts";
+				$ch = curl_init();
+				curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+				curl_setopt($ch, CURLOPT_URL,$url);
+				$result=curl_exec($ch);
+				$posts = json_decode($result, true);
+
+				foreach ($posts as $post) { 
+					$cont++;
+					 if ($cont < 4){
+			    ?>
                             <li> <a href="<?php echo $post['link']; ?>"><?php echo $post['title']['rendered']; ?></a> <span class="date defaultcolor"><?php echo date('F j, Y', strtotime($post['date'])); ?></span> </li>
                             <?php } } ?>
                         </ul>
