@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/config/conf.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/conf.php'; ?>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>POST-VENTA | CONCASA</title>
@@ -63,7 +63,7 @@ div#whating strong {
 	
 
 
-<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #ff5733; background-image: url('n-images/post-venta.jpg'); background-size: contain; background-position: center bottom;" data-bottom-top="background-position:0px 550px;" data-top-bottom="background-position:0px -500px;">
+<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #ff5733; background-image: url('//cdn.concasa.com/concasa.com/clientes/images/n-images/post-venta.jpg'); background-size: contain; background-position: center bottom;" data-bottom-top="background-position:0px 550px;" data-top-bottom="background-position:0px -500px;">
 	<!--<div id="homepageint"></div>-->
 	<div class="container clearfix">
 		<h1>POST-VENTA</h1>
