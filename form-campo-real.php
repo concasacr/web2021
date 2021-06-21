@@ -1,6 +1,6 @@
 <div class="form-widget">
 	<div class="row shadow bg-light border">
-		<div class="col-lg-4 dark" style="background: url('./n-images/postventa-1.jpg') center center / cover; min-height: 400px;"></div>
+		<div class="col-lg-4 dark" style="background: url('//cdn.concasa.com/concasa.com/clientes/images/n-images/postventa-1.jpg') center center / cover; min-height: 400px;"></div>
 		<div class="col-lg-8 p-5">
 			<form action="" method="post" enctype="multipart/form-data" name="myFormZendeskB" id="myFormZendeskB" class="form_group_actions row mb-0">
 			   <input id="macro" name="macro" type="hidden" value="campo_real">
