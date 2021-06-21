@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6" data-animate="fadeIn">
                     <div class="footer_panel  bottom20">
-                        <a href="#" class="footer_logo "><img src="./n-images/logo.svg" alt="Logo Concasa"></a>
+                        <a href="#" class="footer_logo "><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/logo.svg" alt="Logo Concasa"></a>
                         <p class="whitecolor bottom25" style="padding-left: 28px;">Mejor hogar de manera simple.</p>
                         <div class="d-table w-100 address-item whitecolor bottom25">
                             <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
@@ -78,13 +78,13 @@
     
     <div id="gotoTop" class="icon-angle-up"></div>
     
-    <!-- Google Tag Manager (noscript) -->
+    	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWWFZD3"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 
-    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script> -->
-    <script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/jquery.js"></script>
+    	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script> -->
+    	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/jquery.js"></script>
 	<!-- Footer Scripts ============================================= -->
 	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/functions.js"></script>
 	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/plugins.js"></script>
