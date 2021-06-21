@@ -12,33 +12,6 @@
 	RewriteCond %{REQUEST_URI} !^.*\.php$
 </IfModule>
 
-<ifModule mod_headers.c>
-    <filesMatch "\\.(ico|pdf|js|flv|jpg|jpeg|png|gif|swf)$">
-      	Header set Cache-Control "max-age=2628000, public"
-    </filesMatch>
-    <filesMatch ".(css|jpg|jpeg|png|gif|js|ico)$">
-      	Header set Cache-Control "max-age=2628000, public"
-    </filesMatch>
-    <filesMatch "\\.(css)$">
-    	Header set Cache-Control "max-age=2628000, public"
-    </filesMatch>
-    <filesMatch "\\.(js)$">
-    	Header set Cache-Control "max-age=2628000, public"
-    </filesMatch>
-    <filesMatch "\\.(xml|txt)$">
-    	Header set Cache-Control "max-age=216000, public, must-revalidate"
-    </filesMatch>
-    <filesMatch "\\.(html|htm|php)$">
-    	Header set Cache-Control "max-age=1, public, must-revalidate"
-    </filesMatch>
-    <FilesMatch ".(js|css|xml|gz|html)$">
-    	Header append Vary: Accept-Encoding
-    </FilesMatch>
-    <FilesMatch "\\.(x?html?|php)$">
-        Header set Cache-Control "max-age=600, public, must-revalidate"
-    </FilesMatch> 
-</ifModule>
-
 <IfModule mod_mime.c>
     AddType application/vnd.ms-fontobject   eot
     AddType application/x-font-ttf          ttf ttc
