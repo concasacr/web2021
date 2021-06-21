@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/config/conf.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/conf.php'; ?>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <title>CONCASA LIFE | CONCASA</title>
@@ -16,7 +16,7 @@
 	
 
 
-<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #36cde3; background-image: url('n-images/concasalife.jpg'); background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 1050px;" data-top-bottom="background-position:0px -500px;">
+<section id="page-title" class="page-title-parallax page-title-dark" style="padding: 250px 0; background-color: #36cde3; background-image: url('//cdn.concasa.com/concasa.com/clientes/images/n-images/concasalife.jpg'); background-size: contain; background-position: center center;" data-bottom-top="background-position:0px 1050px;" data-top-bottom="background-position:0px -500px;">
 	<!--<div id="homepageint"></div>-->
 	<div class="container clearfix">
 		<h1>&nbsp;</h1>
@@ -39,29 +39,29 @@
 			</div>
 		
 			<ul class="clients-grid grid-4 nobottommargin clearfix">
-				<li><a><img src="n-images/clients/1.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/2.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/3.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/4.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/5.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/6.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/7.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/8.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/9.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/10.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/11.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/12.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/13.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/14.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/15.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/16.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/17.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/18.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/19.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/20.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/21.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/22.png" alt="Comercios Afiliados a Concasa Life"></a></li>
-				<li><a><img src="n-images/clients/23.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/1.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/2.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/3.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/4.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/5.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/6.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/7.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/8.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/9.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/10.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/11.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/12.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/13.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/14.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/15.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/16.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/17.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/18.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/19.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/20.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/21.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/22.png" alt="Comercios Afiliados a Concasa Life"></a></li>
+				<li><a><img src="//cdn.concasa.com/concasa.com/clientes/images/n-images/clients/23.png" alt="Comercios Afiliados a Concasa Life"></a></li>
 			</ul>		
 		
 		
