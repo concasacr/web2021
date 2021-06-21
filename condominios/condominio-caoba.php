@@ -467,7 +467,7 @@
 </div>
 <!-- End Modal Infusionsoft -->
 
-<script type="text/javascript" src="../n-js/scalize.js"></script>
+<script type="text/javascript" src="//cdn.concasa.com/concasa.com/js/n-js/scalize.js"></script>
 <script type="text/javascript">
    $(document).ready(function(){
         $('.scalize').scalize({
