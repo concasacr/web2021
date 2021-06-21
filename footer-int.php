@@ -84,11 +84,11 @@
 	<!-- End Google Tag Manager (noscript) -->
 
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script> -->
-    <script src="n-js/jquery.js"></script>
+    <script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/jquery.js"></script>
 	<!-- Footer Scripts ============================================= -->
-	<script src="n-js/functions.js"></script>
-	<script src="n-js/plugins.js"></script>
-	<script src="n-js/site.js"></script>
-	<script src="n-js/calculator.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/functions.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/plugins.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/site.js"></script>
+	<script src="//cdn.concasa.com/concasa.com/clientes/js/n-js/calculator.js"></script>
 	<script src="//assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 </body>
